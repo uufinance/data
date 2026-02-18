@@ -34,16 +34,32 @@ After submitting your registration, you will receive an email with login instruc
 
 - For support, click on **Support** > **Contact WRDS Support** on the WRDS website and fill out the form.
 
-## Data Access
+## Accessing Data via the Python API
+
+See the **[Basics of Using Python on WRDS Platform](Basics%20of%20Using%20Python%20on%20WRDS%20Platform.ipynb)** notebook for a hands-on guide covering:
+
+- Installing and connecting to WRDS with Python
+- Listing available databases and tables
+- Querying data with SQL
+- Joining multiple datasets
+- Exporting results to CSV, Excel, Stata, and pickle
+
+For a full overview of all variables and tables, see the <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/data-dictionary/" target="_blank">WRDS Data Dictionary</a>.
+
+## Databases
 
 ### Paid Subscriptions
 
-| What | Where on WRDS |
-|------|---------------|
-| **Compustat Fundamentals North America** — historic corporate and bank fundamental financial data for North America, including segment data (such as geographic revenue) | <a href="https://wrds-www.wharton.upenn.edu/pages/get-data/compustat-capital-iq-standard-poors/compustat/north-america-daily/" target="_blank">Company</a>, <a href="https://wrds-www.wharton.upenn.edu/pages/get-data/compustat-capital-iq-standard-poors/compustat/bank-daily/" target="_blank">Bank</a>, <a href="https://wrds-www.wharton.upenn.edu/pages/get-data/compustat-capital-iq-standard-poors/compustat/historical-segments-daily/" target="_blank">Segments</a> |
-| **Compustat Fundamentals Global** — global accounting data, stock returns, exchange rates | <a href="https://wrds-www.wharton.upenn.edu/pages/get-data/compustat-capital-iq-standard-poors/compustat/global-daily/" target="_blank">Link</a> |
-| **Execucomp North America** — historic executive compensation data | <a href="https://wrds-www.wharton.upenn.edu/pages/get-data/compustat-capital-iq-standard-poors/compustat/execucomp/" target="_blank">Link</a> |
-| **Mergent Fixed Income Securities Database (FISD)** — debt issue(r)s, transactions by insurance companies | <a href="https://wrds-www.wharton.upenn.edu/pages/get-data/lseg-mergent/" target="_blank">Link</a> |
+Utrecht University has paid subscriptions to the following databases. Click the guide link for details on available tables, API library names, and what data you can expect to find.
+
+| Database | Description | Guide |
+|----------|-------------|-------|
+| **Compustat North America** | Corporate fundamental financial data (income statement, balance sheet, cash flow) and stock prices for US and Canadian companies | [Guide](databases/compustat-north-america.md) |
+| **Compustat Bank** | Fundamental financial data for North American banks and financial institutions | [Guide](databases/compustat-bank.md) |
+| **Compustat Global** | Global company fundamentals, stock prices, exchange rates, and index data (80+ countries) | [Guide](databases/compustat-global.md) |
+| **ExecuComp** | Executive and director compensation data for S&P 1500 companies | [Guide](databases/execucomp.md) |
+| **Compustat Historical Segments** | Business and geographic segment-level data (revenue, assets by segment) | [Guide](databases/compustat-segments.md) |
+| **Mergent FISD** | Fixed income securities: bond issue details, issuer information, credit ratings | [Guide](databases/mergent-fisd.md) |
 
 ### Additional Free Data
 
