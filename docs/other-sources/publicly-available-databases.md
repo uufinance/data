@@ -1,3 +1,5 @@
 # Publicly Available Databases
 
 - <a href="https://www.dropbox.com/scl/fi/u7ysbebrk7w1ksdg5xfxd/Dijkstra-VU-Amsterdam-Publicly-available-databases-in-Finance.pdf?rlkey=z4uer6t16sru1achrics3lhga&e=3&dl=0" target="_blank">Publicly Available Databases in Finance</a> — A comprehensive list of publicly available databases and sources, compiled by our former colleague Mark Dijkstra (VU Amsterdam).
+- <a href="https://ourworldindata.org/" target="_blank">Our World in Data</a> — Free, open-source research and data on global issues including CO₂ emissions, energy, poverty, health, education, and more. All data downloadable as CSV with full GitHub repositories. Particularly strong on long-run time series and cross-country comparisons.
+- <a href="https://www.kaggle.com/datasets" target="_blank">Kaggle Datasets</a> — Large repository of user-contributed datasets spanning finance, economics, ESG, climate, and many other domains. Quality varies; useful for exploratory work and teaching. Free with registration.
