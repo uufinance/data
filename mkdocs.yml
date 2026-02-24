@@ -56,16 +56,17 @@ nav:
           - factset/index.md
       - LSEG Workspace:
           - lseg/index.md
-      - Other Data:
-          - other-sources/index.md
-          - Annual Reports: other-sources/annual-reports.md
-          - Company Information, Filings & News: other-sources/company-info-news.md
-          - Python Tools: other-sources/python-tools.md
-          - ESG, Climate & Sustainable Finance: other-sources/esg-climate.md
-          - Asset Pricing: other-sources/asset-pricing.md
-          - Economic Data (with APIs): other-sources/economic-data.md
-          - Survey Data: other-sources/survey-data.md
-          - Sentiment & Culture: other-sources/sentiment-culture.md
-          - Macroeconomic & Country-Level Data: other-sources/macro-country-data.md
-          - Researcher Data Pages: other-sources/researcher-data.md
-          - Publicly Available Databases: other-sources/publicly-available-databases.md
+  - Other Data:
+      - other-sources/index.md
+      - Annual Reports: other-sources/annual-reports.md
+      - Company Information, Filings & News: other-sources/company-info-news.md
+      - Python Tools: other-sources/python-tools.md
+      - ESG, Climate & Sustainable Finance: other-sources/esg-climate.md
+      - Asset Pricing: other-sources/asset-pricing.md
+      - Commodities & Futures Data: other-sources/commodities-futures.md
+      - Economic Data (with APIs): other-sources/economic-data.md
+      - Survey Data: other-sources/survey-data.md
+      - Sentiment & Culture: other-sources/sentiment-culture.md
+      - Macroeconomic & Country-Level Data: other-sources/macro-country-data.md
+      - Researcher Data Pages: other-sources/researcher-data.md
+      - Publicly Available Databases: other-sources/publicly-available-databases.md

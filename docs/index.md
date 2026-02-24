@@ -16,7 +16,7 @@ Follow us on <a href="https://www.linkedin.com/company/finance-utrecht/" target=
 | [FactSet](factset/index.md) | FactSet account setup and access |
 | [LSEG Workspace](lseg/index.md) | LSEG Workspace (formerly Refinitiv Eikon) |
 
-### Other Data
+## Other Data
 
 | Topic | Description |
 |-------|-------------|
@@ -25,6 +25,7 @@ Follow us on <a href="https://www.linkedin.com/company/finance-utrecht/" target=
 | [Python Tools](other-sources/python-tools.md) | Open-source Python packages for financial analysis |
 | [ESG, Climate & Sustainable Finance](other-sources/esg-climate.md) | ESG ratings, climate targets, emissions data, impact accounting |
 | [Asset Pricing](other-sources/asset-pricing.md) | Fama-French factors, replicated portfolios, bond factors, SEC market structure data |
+| [Commodities & Futures Data](other-sources/commodities-futures.md) | CFTC Commitment of Traders reports, futures market positioning data, with free API access |
 | [Economic Data (with APIs)](other-sources/economic-data.md) | FRED, ECB, Bundesbank, exchange rates, monetary policy |
 | [Survey Data](other-sources/survey-data.md) | Household and consumer surveys (NFCS, LISS, HFCS, SCF) |
 | [Sentiment & Culture](other-sources/sentiment-culture.md) | Investor sentiment, policy uncertainty, cultural dimensions |
