@@ -2,13 +2,20 @@
 
 Data guides and manuals for the Finance group at Utrecht University School of Economics.
 
-**Live site:** [https://usefinance.github.io/data/](https://usefinance.github.io/data/)
+**Live site:** [https://uufinance.github.io/data/](https://uufinance.github.io/data/)
 
 ## Local Development
 
-```bash
-pip install -r requirements.txt
-mkdocs serve
-```
+1. Install dependencies:
 
-Then open [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser.
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+2. Start the development server:
+
+    ```bash
+    mkdocs serve
+    ```
+
+3. Open [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser.

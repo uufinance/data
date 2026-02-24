@@ -1,8 +1,9 @@
 site_name: USE Finance Data
-site_url: https://usefinance.github.io/data/
+site_url: https://uufinance.github.io/data/
 
 theme:
   name: material
+  logo: assets/images/Finance.png
   font:
     text: Open Sans
     code: Roboto Mono
@@ -49,6 +50,7 @@ nav:
           - World Indices: wrds/databases/world-indices.md
           - S&P Dow Jones Indices: wrds/databases/sp-dow-jones-indices.md
           - Fama-French Portfolios and Factors: wrds/databases/fama-french.md
+      - FactSet: factset/index.md
       - LSEG Workspace: lseg/index.md
       - Other Data:
           - other-sources/index.md
