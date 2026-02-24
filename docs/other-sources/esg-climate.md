@@ -1,7 +1,11 @@
 # ESG, Climate & Sustainable Finance
 
-## Company-Level ESG Data
+!!! tip
+    S&P Global offers free ESG score lookups for individual companies. CDP scores and A-Lists are free; full company-level disclosure data requires a paid license.
 
+## ESG Ratings & Scores
+
+- <a href="https://www.spglobal.com/sustainable1/en/scores/results" target="_blank">S&P Global ESG Scores</a> <span class="badge badge-global">Global</span> — Free lookup of company-level ESG scores for ~13,000 companies, based on the annual Corporate Sustainability Assessment (CSA). Includes overall score plus E, S, and G dimension scores, peer comparisons, and year-over-year changes.
 - <a href="https://www.cdp.net/en/data/scores" target="_blank">CDP (Carbon Disclosure Project)</a> <span class="badge badge-global">Global</span> — Environmental disclosure data from 22,000+ companies (climate change, water security, deforestation). Annual disclosure cycle. Company scores and A-Lists are publicly available.
 
 ## Climate Targets & Transition
@@ -11,26 +15,35 @@
 - <a href="https://www.climateaction100.org/net-zero-company-benchmark/" target="_blank">Climate Action 100+</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Net Zero Company Benchmark assessing focus companies on emissions reduction, governance, and disclosure. Company assessments downloadable as Excel via the <a href="https://www.climateaction100.org/net-zero-company-benchmark/findings/" target="_blank">Key Findings page</a>. Backed by 700+ investors with $68 trillion+ AUM.
 - <a href="https://www.natureaction100.org/company-benchmark/" target="_blank">Nature Action 100</a> <span class="badge badge-global">Global</span> — Global investor engagement initiative assessing 100 companies on reversing nature and biodiversity loss. The Company Benchmark covers ambition, assessment, targets, implementation, governance, and engagement across 50 metrics. Backed by 230+ investors with $30 trillion+ AUM. First results released at COP16 (October 2024).
 
-## Environmental Data
+## Climate Risk Measures
 
 - <a href="https://www.biodiversityrisk.org/download/" target="_blank">Biodiversity Risk</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-us">US</span> — Aggregate and firm-level measures of biodiversity risk exposure, including a daily news-based biodiversity risk index (NYT), annual firm-level 10-K-based biodiversity scores, and industry-level scores from holdings, CDP, and surveys. By Giglio, Kuchler, Stroebel & Zeng (2025, *Review of Finance*).
 - <a href="https://www.carbonvix.org/project/data/" target="_blank">Carbon VIX</a> <span class="badge badge-csv">CSV</span> — High-frequency, market-based measure of carbon price uncertainty derived from options on EU ETS emission allowances. Also includes expected decarbonization investment data and a list of carbon solution providers. By Fuchs, Stroebel & Terstegge (NBER WP 32937).
 - <a href="https://pages.stern.nyu.edu/~jstroebe/Data/EGLKS_data.xlsx" target="_blank">Climate Change News Index</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-us">US</span> — Daily index of climate change news coverage constructed from Wall Street Journal articles via textual analysis. Downloadable as Excel. By Engle, Giglio, Kelly, Lee & Stroebel (2020, *Review of Financial Studies*).
+- <a href="https://osf.io/fd6jq/" target="_blank">Firm-Level Climate Change Exposure</a> <span class="badge badge-csv">CSV</span> — Measures of firm-level exposure to climate change risks and opportunities, based on earnings conference call transcripts (Sautner et al.). Covers physical risk, regulatory risk, and opportunity dimensions.
+- <a href="https://sentometrics-research.com/download/mccc/" target="_blank">Media Climate Change Concerns (MCCC) Index</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-us">US</span> — Daily index of climate change concerns derived from major U.S. newspapers and newswires, combining negativity and risk levels in climate-related articles. Covers January 2003 to present. By Ardia, Bluteau, Boudt & Inghelbrecht (2023, *Management Science*).
+
+## Emissions, Pollution & Environmental Registries
+
 - <a href="https://www.dropbox.com/scl/fi/mz6zz944jlba6tw0gedg7/Country-Industry-Average-CBF-values.xlsx?rlkey=hlokv6zffwnpjshs3bx30uhtp&e=1&dl=0" target="_blank">Country-Industry Corporate Biodiversity Footprint (CBF)</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Average Corporate Biodiversity Footprint values by country and industry, downloadable as Excel. Based on Garel et al. (2025).
 - <a href="https://edgar.jrc.ec.europa.eu/" target="_blank">EDGAR – Emissions Database for Global Atmospheric Research</a> <span class="badge badge-global">Global</span> — Global data on anthropogenic emissions of greenhouse gases and air pollutants, by the European Commission's Joint Research Centre. Covers CO₂, CH₄, N₂O, and F-gases by country, sector, and fuel type.
 - <a href="https://www.epa.gov/toxics-release-inventory-tri-program" target="_blank">EPA Toxic Release Inventory (TRI)</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-us">US</span> — U.S. data on industrial pollution and toxic releases. Covers facility-level chemical releases and waste management. Useful for analyzing firm-level environmental performance and regulatory compliance.
-- <a href="https://osf.io/fd6jq/" target="_blank">Firm-Level Climate Change Exposure</a> <span class="badge badge-csv">CSV</span> — Measures of firm-level exposure to climate change risks and opportunities, based on earnings conference call transcripts (Sautner et al.). Covers physical risk, regulatory risk, and opportunity dimensions.
-- <a href="https://sentometrics-research.com/download/mccc/" target="_blank">Media Climate Change Concerns (MCCC) Index</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-us">US</span> — Daily index of climate change concerns derived from major U.S. newspapers and newswires, combining negativity and risk levels in climate-related articles. Covers January 2003 to present. By Ardia, Bluteau, Boudt & Inghelbrecht (2023, *Management Science*).
 - <a href="https://modis.gsfc.nasa.gov/data/dataprod/mod13.php" target="_blank">MODIS Vegetation Indices (MOD13)</a> <span class="badge badge-global">Global</span> — NASA satellite-derived vegetation index data (NDVI and EVI) at global coverage. Useful for research linking environmental conditions to economic and financial outcomes.
 
-## Climate Scenarios & Macro Data
+## Carbon Markets & Climate Scenarios
 
+- <a href="https://icapcarbonaction.com/en" target="_blank">ICAP Emissions Trading Systems</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Free interactive map and data on all global emissions trading systems, covering 38+ active ETS worldwide. Downloadable allowance price data, system factsheets, and annual Status Reports. By the International Carbon Action Partnership.
 - <a href="https://www.ngfs.net/ngfs-scenarios-portal/data-resources/" target="_blank">NGFS Climate Scenarios</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Climate scenario data from the Network for Greening the Financial System, used by central banks and supervisors worldwide. Downloadable as CSV/XLSX via the <a href="https://data.ene.iiasa.ac.at/ngfs/" target="_blank">IIASA Scenario Explorer</a> (guest login, free). Covers transition risk, physical risk, and macro-economic variables. Also accessible via the <a href="https://climatedata.imf.org/pages/ngfs" target="_blank">IMF Climate Data Portal</a>.
 
-## Sustainability Reporting Frameworks
+## Sovereign ESG & Governance
+
+- <a href="https://esgdata.worldbank.org/" target="_blank">World Bank Sovereign ESG Data Portal</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — 71+ ESG indicators across 217 economies spanning 60 years, covering all 17 Sustainable Development Goals across environment, social, and governance pillars. Includes interactive score builder, income adjustment tool, and peer comparisons. Bulk download available via the <a href="https://datacatalog.worldbank.org/search/dataset/0037651/Environment--Social-and-Governance-Data" target="_blank">Data Catalog</a>. CC BY 4.0 license.
+- <a href="https://www.ecgi.global/publications/codes" target="_blank">ECGI Corporate Governance Codes</a> <span class="badge badge-global">Global</span> — Free database of corporate governance codes, principles, and reforms from dozens of countries, maintained by the European Corporate Governance Institute. Documents downloadable as PDF. Includes monitoring reports and impact studies where available.
+
+## Sustainability Frameworks & Impact
 
 - <a href="https://www.unrisd.org/en/library/publications/authentic-sustainability-assessment-a-user-manual-for-the-sustainable-development-performance-indica" target="_blank">Authentic Sustainability Assessment (UNRISD)</a> — A framework of 61 Sustainable Development Performance Indicators (SDPIs) for measuring organizational sustainability performance against real-world thresholds (Planetary Boundaries, Doughnut Economics). Takes an inside-out perspective on company impacts, unlike traditional ESG ratings. The full manual is available as a <a href="https://cdn.unrisd.org/assets/library/reports/2022/manual-sdpi-2022.pdf" target="_blank">free PDF</a>.
-
-## Impact Accounting
-
 - <a href="https://www.hbs.edu/impact-weighted-accounts/Pages/default.aspx" target="_blank">Impact-Weighted Accounts (Harvard Business School)</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Monetized impact data for 6,000+ companies, covering environmental and social impacts as line items on financial statements. Data supplement downloadable as Excel. See also the <a href="https://ifvi.org/impact-accounting-in-practice/resources/" target="_blank">IFVI Resources page</a> for the datasets and valuation tools.
+
+---
+**See also**: [Macroeconomic & Country-Level Data](macro-country-data.md) for sovereign-level indicators | [Sentiment & Culture](sentiment-culture.md) for text-based measures related to climate news | [Researcher Data Pages](researcher-data.md) for additional academic datasets.
