@@ -3,14 +3,43 @@
 !!! tip
     FRED requires a free API key — register at <a href="https://fred.stlouisfed.org/docs/api/api_key.html" target="_blank">fred.stlouisfed.org/docs/api/api_key.html</a>. The other sources below (ECB, Bundesbank, IMF, OECD, BIS) provide open API access without authentication.
 
-- <a href="https://fred.stlouisfed.org/" target="_blank">FRED (Federal Reserve Economic Data)</a> — 800,000+ U.S. and international time series from 100+ sources (Fed, BLS, BEA, Census, etc.). Includes <a href="https://alfred.stlouisfed.org/" target="_blank">ALFRED</a> (Archival FRED) for point-in-time vintage data, letting you see what data was available on any historical date (useful for avoiding look-ahead bias). Free <a href="https://fred.stlouisfed.org/docs/api/fred/" target="_blank">API</a> with Python access via <a href="https://pypi.org/project/fredapi/" target="_blank">`fredapi`</a>, which supports both current data and ALFRED revisions. Covers interest rates, inflation, employment, GDP, money supply, and more.
-- <a href="https://data.imf.org/" target="_blank">IMF Data</a> — International Monetary Fund datasets including the World Economic Outlook (WEO), International Financial Statistics (IFS), Direction of Trade Statistics (DOTS), and Balance of Payments (BOP). Covers macroeconomic indicators, trade flows, exchange rates, and financial soundness for 190+ countries. Free <a href="https://datahelp.imf.org/knowledgebase/articles/667681-using-json-restful-web-service" target="_blank">API</a> (JSON RESTful).
-- <a href="https://data-explorer.oecd.org/" target="_blank">OECD Data Explorer</a> — Economic, social, and environmental statistics for OECD member and partner countries. Covers GDP, trade, employment, education, health, environment, and more. Free <a href="https://data-explorer.oecd.org/developers/" target="_blank">API</a> (SDMX).
-- <a href="https://data.bis.org/" target="_blank">BIS Statistics</a> — International banking, derivatives, debt securities, credit, property prices, and exchange rate data from the Bank for International Settlements. Covers cross-border financial flows and global liquidity. Free <a href="https://data.bis.org/topics" target="_blank">API</a> (SDMX).
-- <a href="https://data.ecb.europa.eu/" target="_blank">ECB Statistical Data Warehouse</a> — Euro area monetary, financial, and economic statistics from the European Central Bank. Covers exchange rates, interest rates, monetary aggregates, balance of payments, and banking data. Free API access (SDMX).
-- <a href="https://www.bundesbank.de/en/statistics/time-series-databases" target="_blank">Deutsche Bundesbank Time Series</a> — German and European economic and financial statistics. Covers capital markets, banking, money markets, public finances, and external sector data. Free API access.
-- <a href="https://cepr.org/voxeu/columns/euro-area-monetary-policy-event-study-database" target="_blank">Euro Area Monetary Policy Event-Study Database</a> — High-frequency data on ECB monetary policy announcement effects on financial markets. Useful for event studies on conventional and unconventional monetary policy.
-- <a href="https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html" target="_blank">Euro Foreign Exchange Reference Rates</a> — Daily reference exchange rates for currencies vis-à-vis the euro, published by the ECB.
+### Quick Comparison
+
+| Source | Coverage | API Format | Auth Required |
+|--------|----------|------------|---------------|
+| FRED | 800,000+ US & intl series | REST JSON | Free API key |
+| IMF | 190+ countries (WEO, IFS, DOTS) | REST JSON | No |
+| OECD | OECD members + partners | SDMX | No |
+| BIS | Global banking, credit, FX | SDMX | No |
+| ECB | Euro area monetary/financial | SDMX | No |
+| Bundesbank | Germany & Europe | REST | No |
+
+---
+
+- <a href="https://fred.stlouisfed.org/" target="_blank">FRED (Federal Reserve Economic Data)</a> <span class="badge badge-api">API</span> <span class="badge badge-python">Python</span> — 800,000+ U.S. and international time series from 100+ sources (Fed, BLS, BEA, Census, etc.). Updated daily. Includes <a href="https://alfred.stlouisfed.org/" target="_blank">ALFRED</a> (Archival FRED) for point-in-time vintage data, letting you see what data was available on any historical date (useful for avoiding look-ahead bias). Free <a href="https://fred.stlouisfed.org/docs/api/fred/" target="_blank">API</a> with Python access via <a href="https://pypi.org/project/fredapi/" target="_blank">`fredapi`</a>, which supports both current data and ALFRED revisions. Covers interest rates, inflation, employment, GDP, money supply, and more.
+- <a href="https://data.imf.org/" target="_blank">IMF Data</a> <span class="badge badge-api">API</span> <span class="badge badge-free">Free</span> — International Monetary Fund datasets including the World Economic Outlook (WEO), International Financial Statistics (IFS), Direction of Trade Statistics (DOTS), and Balance of Payments (BOP). Covers macroeconomic indicators, trade flows, exchange rates, and financial soundness for 190+ countries. Free <a href="https://datahelp.imf.org/knowledgebase/articles/667681-using-json-restful-web-service" target="_blank">API</a> (JSON RESTful).
+- <a href="https://data-explorer.oecd.org/" target="_blank">OECD Data Explorer</a> <span class="badge badge-api">API</span> <span class="badge badge-free">Free</span> — Economic, social, and environmental statistics for OECD member and partner countries. Covers GDP, trade, employment, education, health, environment, and more. Free <a href="https://data-explorer.oecd.org/developers/" target="_blank">API</a> (SDMX).
+- <a href="https://data.bis.org/" target="_blank">BIS Statistics</a> <span class="badge badge-api">API</span> <span class="badge badge-free">Free</span> — International banking, derivatives, debt securities, credit, property prices, and exchange rate data from the Bank for International Settlements. Covers cross-border financial flows and global liquidity. Free <a href="https://data.bis.org/topics" target="_blank">API</a> (SDMX).
+- <a href="https://data.ecb.europa.eu/" target="_blank">ECB Statistical Data Warehouse</a> <span class="badge badge-api">API</span> <span class="badge badge-free">Free</span> — Euro area monetary, financial, and economic statistics from the European Central Bank. Updated daily. Covers exchange rates, interest rates, monetary aggregates, balance of payments, and banking data. Free API access (SDMX).
+- <a href="https://www.bundesbank.de/en/statistics/time-series-databases" target="_blank">Deutsche Bundesbank Time Series</a> <span class="badge badge-api">API</span> <span class="badge badge-free">Free</span> — German and European economic and financial statistics. Covers capital markets, banking, money markets, public finances, and external sector data. Free API access.
+- <a href="https://cepr.org/voxeu/columns/euro-area-monetary-policy-event-study-database" target="_blank">Euro Area Monetary Policy Event-Study Database</a> <span class="badge badge-free">Free</span> — High-frequency data on ECB monetary policy announcement effects on financial markets. Useful for event studies on conventional and unconventional monetary policy.
+- <a href="https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html" target="_blank">Euro Foreign Exchange Reference Rates</a> <span class="badge badge-free">Free</span> — Daily reference exchange rates for currencies vis-à-vis the euro, published by the ECB.
+
+## Python Examples
+
+```python
+# FRED — fetch 10-Year Treasury rate
+from fredapi import Fred
+fred = Fred(api_key="your_key")
+df = fred.get_series("GS10")
+```
+
+```python
+# IMF — fetch IFS data (e.g., US Consumer Price Index)
+import requests
+url = "http://dataservices.imf.org/REST/SDMX_JSON.svc/CompactData/IFS/Q.US.PCPI_IX"
+data = requests.get(url).json()
+```
 
 ---
 **See also**: [Macroeconomic & Country-Level Data](macro-country-data.md) for country-level indicators, distances, and historical macro datasets.

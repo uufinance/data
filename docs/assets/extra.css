@@ -26,3 +26,38 @@ a:hover {
 .md-nav a:hover {
   color: #900828;
 }
+
+/* Table hover and padding */
+.md-content table tr:hover {
+  background: rgba(0, 0, 0, 0.03);
+}
+
+.md-content table td {
+  padding: 0.6em 1em;
+}
+
+/* Badges */
+.badge {
+  display: inline-block;
+  padding: 0.15em 0.5em;
+  font-size: 0.75em;
+  font-weight: 600;
+  border-radius: 3px;
+  vertical-align: middle;
+  margin-left: 0.3em;
+}
+
+.badge-free {
+  background: #e8f5e9;
+  color: #2e7d32;
+}
+
+.badge-api {
+  background: #e3f2fd;
+  color: #1565c0;
+}
+
+.badge-python {
+  background: #fff3e0;
+  color: #e65100;
+}

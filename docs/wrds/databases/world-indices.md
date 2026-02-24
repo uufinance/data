@@ -15,6 +15,7 @@ The WRDS World Indices dataset provides **daily and monthly price data for major
 
 - **WRDS web interface**: <a href="https://wrds-www.wharton.upenn.edu/pages/get-data/world-indices-wrds/" target="_blank">World Indices</a>
 - **Python API library**: `wi`
+- **Update frequency**: Daily
 - **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/wi/" target="_blank">Link</a>
 
 ## Example

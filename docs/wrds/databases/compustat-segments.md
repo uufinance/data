@@ -20,7 +20,7 @@ This data is useful for studying corporate diversification, geographic revenue e
 - **Update frequency**: Daily
 - **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/comp_segments_hist_daily/" target="_blank">Link</a>
 
-## Tables
+## Key Tables
 
 Use `conn.list_tables(library='comp_segments_hist_daily')` to see the full list of available tables.
 

@@ -21,7 +21,7 @@ Compustat Global provides **fundamental financial data, stock prices, exchange r
 - **Update frequency**: Daily
 - **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/comp_global_daily/" target="_blank">Link</a>
 
-## Tables
+## Key Tables
 
 ### Company Fundamentals
 

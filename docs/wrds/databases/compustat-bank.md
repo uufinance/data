@@ -20,7 +20,7 @@ Compustat Bank provides **fundamental financial data specifically for banks and 
 - **Update frequency**: Daily
 - **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/comp_bank_daily/" target="_blank">Link</a>
 
-## Tables
+## Key Tables
 
 ### Core Financial Data
 
