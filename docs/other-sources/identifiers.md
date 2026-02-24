@@ -1,6 +1,6 @@
 # Identifiers & Data Linking
 
-When combining data from different sources (e.g., SEC filings with Compustat fundamentals, or CRSP returns with analyst forecasts), you need a common identifier to match records. This page provides a quick reference for the most common financial identifiers and how to link datasets.
+When combining data from different sources (e.g., SEC filings with Compustat fundamentals, or Compustat data with analyst forecasts), you need a common identifier to match records. This page provides a quick reference for the most common financial identifiers and how to link datasets.
 
 ## Common Identifiers
 
@@ -16,17 +16,6 @@ When combining data from different sources (e.g., SEC filings with Compustat fun
 | **LEI** | GLEIF | Global | 20-character Legal Entity Identifier for counterparty identification. |
 
 ## Linking Datasets
-
-### Compustat ↔ CRSP (via WRDS CCM)
-
-The most common linking task in U.S. equity research. WRDS provides the **CCM (CRSP/Compustat Merged)** database that maps GVKEY to PERMNO with date ranges.
-
-- **WRDS library**: `crsp_a_ccm` (annual) or `crsp_q_ccm` (quarterly)
-- **Key table**: `ccmxpf_lnkhist` — contains GVKEY, LPERMNO, link type, and effective date ranges
-- **Best practice**: Filter on `linktype IN ('LU', 'LC')` and `linkprim IN ('P', 'C')` for primary links
-
-!!! tip
-    Always check the link date range (`linkdt` to `linkenddt`) to ensure the link is valid for your sample period.
 
 ### SEC EDGAR ↔ Compustat (via CIK)
 
@@ -56,4 +45,4 @@ For U.S. securities, the ISIN is constructed from the CUSIP:
     - **Header vs. body CUSIPs** — some datasets use the 6-character issuer code (header CUSIP), others use the full 9-character security-level CUSIP. Make sure you're matching at the right level.
 
 ---
-**See also**: [Company Information, Filings & News](company-info-news.md) for SEC EDGAR data and CIK lookups | [WRDS](../wrds/index.md) for Compustat, CRSP, and CCM access.
+**See also**: [Company Information, Filings & News](company-info-news.md) for SEC EDGAR data and CIK lookups | [WRDS](../wrds/index.md) for Compustat and other database access.
