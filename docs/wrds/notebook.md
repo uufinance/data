@@ -13,7 +13,7 @@ This Jupyter notebook walks you through the essentials of connecting to WRDS and
 ## Download
 
 - [Download the notebook](Basics%20of%20Using%20Python%20on%20WRDS%20Platform.ipynb) (`.ipynb` file)
-- <a href="https://github.com/usefinance/data/blob/main/docs/wrds/Basics%20of%20Using%20Python%20on%20WRDS%20Platform.ipynb" target="_blank">View on GitHub</a>
+- <a href="https://github.com/uufinance/data/blob/main/docs/wrds/Basics%20of%20Using%20Python%20on%20WRDS%20Platform.ipynb" target="_blank">View on GitHub</a>
 
 ## Prerequisites
 

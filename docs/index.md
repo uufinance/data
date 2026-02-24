@@ -7,6 +7,7 @@ On this website you can find manuals to download and process your data.
 | Source | Description |
 |--------|-------------|
 | [WRDS](wrds/index.md) | Wharton Research Data Services — Compustat, ExecuComp, Audit Analytics, Mergent FISD, and more |
+| [FactSet](factset/index.md) | FactSet account setup and access |
 | [LSEG Workspace](lseg/index.md) | LSEG Workspace (formerly Refinitiv Eikon) |
 
 ### Other Data
