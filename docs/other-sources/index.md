@@ -5,10 +5,10 @@ Free and open-access data sources for finance research, organized by topic.
 | Topic | Description |
 |-------|-------------|
 | [Annual Reports](annual-reports.md) | PDF annual reports for large global companies |
-| [Company Information & News](company-info-news.md) | News articles and company information (Nexis Uni) |
+| [Company Information, Filings & News](company-info-news.md) | SEC EDGAR filings, financial statements, insider transactions, and news (Nexis Uni) |
 | [Python Tools](python-tools.md) | Open-source Python packages for financial analysis (Jeroen Bouma) |
 | [ESG, Climate & Sustainable Finance](esg-climate.md) | ESG ratings, climate targets, emissions data, impact accounting |
-| [Asset Pricing](asset-pricing.md) | Fama-French factors, replicated portfolios, bond factors |
+| [Asset Pricing](asset-pricing.md) | Fama-French factors, replicated portfolios, bond factors, SEC market structure data |
 | [Economic Data (with APIs)](economic-data.md) | FRED, ECB, Bundesbank, exchange rates, monetary policy |
 | [Survey Data](survey-data.md) | Household and consumer surveys (NFCS, LISS, HFCS, SCF) |
 | [Sentiment & Culture](sentiment-culture.md) | Investor sentiment, policy uncertainty, cultural dimensions, values surveys |
