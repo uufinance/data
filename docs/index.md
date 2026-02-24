@@ -7,7 +7,6 @@ On this website you can find manuals to download and process your data.
 | Source | Description |
 |--------|-------------|
 | [WRDS](wrds/index.md) | Wharton Research Data Services — Compustat, ExecuComp, Audit Analytics, Mergent FISD, and more |
-| [FactSet](factset/index.md) | FactSet account setup and access |
 | [LSEG Workspace](lseg/index.md) | LSEG Workspace (formerly Refinitiv Eikon) |
 
 ### Other Data
@@ -15,11 +14,11 @@ On this website you can find manuals to download and process your data.
 | Topic | Description |
 |-------|-------------|
 | [Annual Reports](other-sources/annual-reports.md) | PDF annual reports for large global companies |
-| [Company Information & News](other-sources/company-info-news.md) | News articles and company information (Nexis Uni) |
+| [Company Information, Filings & News](other-sources/company-info-news.md) | SEC EDGAR filings, financial statements, insider transactions, and news (Nexis Uni) |
 | [Python Tools](other-sources/python-tools.md) | Open-source Python packages for financial analysis |
 | [ESG, Climate & Sustainable Finance](other-sources/esg-climate.md) | ESG ratings, climate targets, emissions data, impact accounting |
-| [Asset Pricing](other-sources/asset-pricing.md) | Fama-French factors, replicated portfolios, bond factors |
-| [Economic Data](other-sources/economic-data.md) | FRED, ECB, Bundesbank, exchange rates, monetary policy |
+| [Asset Pricing](other-sources/asset-pricing.md) | Fama-French factors, replicated portfolios, bond factors, SEC market structure data |
+| [Economic Data (with APIs)](other-sources/economic-data.md) | FRED, ECB, Bundesbank, exchange rates, monetary policy |
 | [Survey Data](other-sources/survey-data.md) | Household and consumer surveys (NFCS, LISS, HFCS, SCF) |
 | [Sentiment & Culture](other-sources/sentiment-culture.md) | Investor sentiment, policy uncertainty, cultural dimensions |
 | [Macroeconomic & Country-Level Data](other-sources/macro-country-data.md) | Country distances, disasters, macro history, corruption, lobbying |

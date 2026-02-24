@@ -49,16 +49,15 @@ nav:
           - World Indices: wrds/databases/world-indices.md
           - S&P Dow Jones Indices: wrds/databases/sp-dow-jones-indices.md
           - Fama-French Portfolios and Factors: wrds/databases/fama-french.md
-      - FactSet: factset/index.md
       - LSEG Workspace: lseg/index.md
       - Other Data:
           - other-sources/index.md
           - Annual Reports: other-sources/annual-reports.md
-          - Company Information & News: other-sources/company-info-news.md
+          - Company Information, Filings & News: other-sources/company-info-news.md
           - Python Tools: other-sources/python-tools.md
           - ESG, Climate & Sustainable Finance: other-sources/esg-climate.md
           - Asset Pricing: other-sources/asset-pricing.md
-          - Economic Data: other-sources/economic-data.md
+          - Economic Data (with APIs): other-sources/economic-data.md
           - Survey Data: other-sources/survey-data.md
           - Sentiment & Culture: other-sources/sentiment-culture.md
           - Macroeconomic & Country-Level Data: other-sources/macro-country-data.md
