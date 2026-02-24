@@ -9,6 +9,7 @@ Free and open-access data sources for finance research, organized by topic.
 | [Python Tools](python-tools.md) | Open-source Python packages for financial analysis (Jeroen Bouma) |
 | [ESG, Climate & Sustainable Finance](esg-climate.md) | ESG ratings, climate targets, emissions data, impact accounting |
 | [Asset Pricing](asset-pricing.md) | Fama-French factors, replicated portfolios, bond factors, SEC market structure data |
+| [Commodities & Futures Data](commodities-futures.md) | CFTC Commitment of Traders reports, futures market positioning data, with free API access |
 | [Economic Data (with APIs)](economic-data.md) | FRED, ECB, Bundesbank, exchange rates, monetary policy |
 | [Survey Data](survey-data.md) | Household and consumer surveys (NFCS, LISS, HFCS, SCF) |
 | [Sentiment & Culture](sentiment-culture.md) | Investor sentiment, policy uncertainty, cultural dimensions, values surveys |
