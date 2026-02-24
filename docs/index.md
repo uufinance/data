@@ -2,6 +2,12 @@ Welcome to the *Finance* Data GitHub of
 # Utrecht University School of Economics
 On this website you can find manuals to download and process your data.
 
+Need help with data access? Contact **[financedata.use@uu.nl](mailto:financedata.use@uu.nl)**
+
+Follow us on <a href="https://www.linkedin.com/company/finance-utrecht/" target="_blank">LinkedIn</a>.
+
+---
+
 ## Databases
 
 | Source | Description |
@@ -25,9 +31,3 @@ On this website you can find manuals to download and process your data.
 | [Macroeconomic & Country-Level Data](other-sources/macro-country-data.md) | Country distances, disasters, macro history, corruption, lobbying |
 | [Researcher Data Pages](other-sources/researcher-data.md) | Individual researcher datasets (Goyal, Stambaugh, He, and others) |
 | [Publicly Available Databases](other-sources/publicly-available-databases.md) | Comprehensive list compiled by Mark Dijkstra (VU Amsterdam) |
-
----
-
-Need help with data access? Contact **[financedata.use@uu.nl](mailto:financedata.use@uu.nl)**
-
-Follow us on <a href="https://www.linkedin.com/company/finance-utrecht/" target="_blank">LinkedIn</a>
