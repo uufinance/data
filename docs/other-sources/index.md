@@ -16,4 +16,3 @@ Free and open-access data sources for finance research, organized by topic.
 | [Sentiment & Culture](sentiment-culture.md) | Investor sentiment, policy uncertainty, cultural dimensions, values surveys |
 | [Python Tools & Books](python-tools.md) | Open-source Python packages and books for financial analysis |
 | [Researcher Data Pages](researcher-data.md) | Individual researcher datasets (Goyal, Stambaugh, He, and others) |
-| [Publicly Available Databases](publicly-available-databases.md) | Comprehensive list compiled by Mark Dijkstra (VU Amsterdam) |

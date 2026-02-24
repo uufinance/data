@@ -6,6 +6,7 @@
 - <a href="https://zhiguohe.net/data-and-empirical-patterns/intermediary-capital-ratio-and-risk-factor/" target="_blank">Zhiguo He</a> — Data on intermediary capital ratios and associated risk factors (He, Kelly & Manela).
 - <a href="https://finance.wharton.upenn.edu/~stambaug/" target="_blank">Robert Stambaugh</a> — Datasets on asset pricing, market efficiency, and liquidity.
 - <a href="https://bogousslavsky.github.io/data/" target="_blank">Vincent Bogousslavsky</a> — Datasets on intraday market microstructure and trading patterns.
+- <a href="https://www.dropbox.com/scl/fi/u7ysbebrk7w1ksdg5xfxd/Dijkstra-VU-Amsterdam-Publicly-available-databases-in-Finance.pdf?rlkey=z4uer6t16sru1achrics3lhga&e=3&dl=0" target="_blank">Publicly Available Databases in Finance</a> — A comprehensive list of publicly available databases and sources, compiled by our former colleague Mark Dijkstra (VU Amsterdam).
 
 ---
 **See also**: [Asset Pricing](asset-pricing.md) for Fama-French factors, replicated portfolios, and SEC market structure data.

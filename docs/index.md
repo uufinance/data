@@ -32,4 +32,3 @@ Follow us on <a href="https://www.linkedin.com/company/finance-utrecht/" target=
 | [Sentiment & Culture](other-sources/sentiment-culture.md) | Investor sentiment, policy uncertainty, cultural dimensions |
 | [Python Tools & Books](other-sources/python-tools.md) | Open-source Python packages and books for financial analysis |
 | [Researcher Data Pages](other-sources/researcher-data.md) | Individual researcher datasets (Goyal, Stambaugh, He, and others) |
-| [Publicly Available Databases](other-sources/publicly-available-databases.md) | Comprehensive list compiled by Mark Dijkstra (VU Amsterdam) |
