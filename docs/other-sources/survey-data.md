@@ -6,3 +6,6 @@
 - <a href="https://www.ecb.europa.eu/stats/ecb_surveys/safe/html/data.en.html" target="_blank">ECB SAFE Survey</a> — Survey on the Access to Finance of Enterprises. Covers SME financing needs, access to credit, and perceived barriers to funding across Europe.
 - <a href="https://www.federalreserve.gov/econres/scfindex.htm" target="_blank">Federal Reserve Survey of Consumer Finances (SCF)</a> — Detailed data on U.S. households' balance sheets, pensions, income, and demographics. Triennial survey with a focus on wealth distribution. Free download.
 - <a href="https://data.sca.isr.umich.edu/" target="_blank">University of Michigan Survey of Consumers</a> — Monthly data on U.S. consumer sentiment, expectations, and attitudes towards economic conditions. Widely used as a leading indicator in macro-finance research.
+
+---
+**See also**: [Sentiment & Culture](sentiment-culture.md) for investor sentiment indices, policy uncertainty, and cultural dimensions data.

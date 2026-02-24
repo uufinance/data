@@ -16,3 +16,6 @@ The SEC provides free data on U.S. equity market microstructure through <a href=
 - <a href="https://www.sec.gov/data-research/sec-markets-data/marketstructuredata-decile-quartile" target="_blank">Summary Metrics by Decile and Quartile</a> — Market structure metrics partitioned by security characteristics (market capitalization, price level, volatility, and turnover).
 - <a href="https://www.sec.gov/data-research/sec-markets-data/marketstructuredata-hazards-survivors" target="_blank">Hazard, Survivor & Cumulative Distribution Data</a> — Hazard, survivor, and cumulative distribution functions for quote lifetimes across market cap groups, from microseconds to full trading days.
 - <a href="https://www.sec.gov/data-research/sec-markets-data/spreads-depth-individual-security" target="_blank">Spreads and Depth by Individual Security</a> — Bid-ask spreads and market depth data by individual security and date, useful for studying liquidity and transaction costs.
+
+---
+**See also**: [Researcher Data Pages](researcher-data.md) for individual researcher datasets on asset pricing, market microstructure, and risk factors.

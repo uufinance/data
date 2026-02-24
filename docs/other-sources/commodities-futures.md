@@ -41,7 +41,10 @@ Introduced in **January 2007** in response to the growth of commodity index inve
 
 ### CFTC Public Reporting API
 
-The CFTC provides free programmatic access to all COT report data through a <a href="https://publicreporting.cftc.gov/stories/s/Commitments-of-Traders/r4w3-av2u/" target="_blank">Socrata-based (SODA) API</a> at `publicreporting.cftc.gov`. No authentication or API key is required. The API supports filtering, sorting, and pagination via standard query parameters, making it straightforward to retrieve data for specific contracts, date ranges, or trader categories.
+The CFTC provides free programmatic access to all COT report data through a <a href="https://publicreporting.cftc.gov/stories/s/Commitments-of-Traders/r4w3-av2u/" target="_blank">Socrata-based (SODA) API</a> at `publicreporting.cftc.gov`. The API supports filtering, sorting, and pagination via standard query parameters, making it straightforward to retrieve data for specific contracts, date ranges, or trader categories.
+
+!!! tip
+    The CFTC API requires no authentication or API key — you can start querying immediately.
 
 - <a href="https://publicreporting.cftc.gov/stories/s/Commitments-of-Traders/r4w3-av2u/" target="_blank">COT API Landing Page</a> — Entry point for all COT datasets with links to individual report APIs (Legacy, Disaggregated, TFF, Supplemental) in both futures-only and combined variants.
 - <a href="https://publicreporting.cftc.gov/stories/s/User-s-Guide/p2fg-u73y/" target="_blank">User's Guide</a> — Documentation on how to use the CFTC public reporting platform, including API query syntax, filtering options, and export formats.
@@ -49,7 +52,11 @@ The CFTC provides free programmatic access to all COT report data through a <a h
 
 ### Python Access
 
-- <a href="https://github.com/NDelventhal/cot_reports" target="_blank">`cot_reports`</a> — Open-source Python library for fetching all CFTC COT report types directly into pandas DataFrames. Supports Legacy (futures-only and combined), Disaggregated (futures-only and combined), TFF (futures-only and combined), and Supplemental reports. Install with `pip install cot_reports`. (<a href="https://pypi.org/project/cot-reports/" target="_blank">PyPI</a>)
+- <a href="https://github.com/NDelventhal/cot_reports" target="_blank">`cot_reports`</a> — Open-source Python library for fetching all CFTC COT report types directly into pandas DataFrames. Supports Legacy (futures-only and combined), Disaggregated (futures-only and combined), TFF (futures-only and combined), and Supplemental reports. (<a href="https://pypi.org/project/cot-reports/" target="_blank">PyPI</a>)
+
+```bash
+pip install cot_reports
+```
 
 ## Additional Resources
 

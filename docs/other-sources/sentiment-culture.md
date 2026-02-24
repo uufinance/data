@@ -6,3 +6,6 @@
 - <a href="https://data.humdata.org/dataset/social-connectedness-index" target="_blank">Social Connectedness Index (SCI)</a> — Measures the strength of social connectedness between geographic locations based on Facebook data. Useful for studying social networks, investment flows, and market integration.
 - <a href="https://www.worldvaluessurvey.org/wvs.jsp" target="_blank">World Values Survey (WVS)</a> — Global survey of social, political, and cultural values covering topics like trust, happiness, and economic attitudes. Seven waves since 1981, covering 100+ countries.
 - <a href="https://europeanvaluesstudy.eu/methodology-data-documentation/integrated-values-surveys/" target="_blank">European Values Study / Integrated Values Surveys (IVS)</a> — Longitudinal survey of European values on topics like trust, morality, religion, and economic attitudes. Five EVS waves since 1981, integrated with WVS data to form the IVS 1981–2022 dataset. Free via <a href="https://www.gesis.org/en/european-values-study/data-and-documentation/integrated-values-surveys-ivs-1981-2022" target="_blank">GESIS</a>.
+
+---
+**See also**: [Survey Data](survey-data.md) for household and consumer finance surveys (NFCS, LISS, HFCS, SCF).

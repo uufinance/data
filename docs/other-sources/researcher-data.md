@@ -6,3 +6,6 @@
 - <a href="https://zhiguohe.net/data-and-empirical-patterns/intermediary-capital-ratio-and-risk-factor/" target="_blank">Zhiguo He</a> — Data on intermediary capital ratios and associated risk factors (He, Kelly & Manela).
 - <a href="https://finance.wharton.upenn.edu/~stambaug/" target="_blank">Robert Stambaugh</a> — Datasets on asset pricing, market efficiency, and liquidity.
 - <a href="https://bogousslavsky.github.io/data/" target="_blank">Vincent Bogousslavsky</a> — Datasets on intraday market microstructure and trading patterns.
+
+---
+**See also**: [Asset Pricing](asset-pricing.md) for Fama-French factors, replicated portfolios, and SEC market structure data.
