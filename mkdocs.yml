@@ -13,8 +13,13 @@ theme:
     accent: custom
   features:
     - content.code.copy
+    - content.tabs.link
+    - navigation.instant
     - navigation.sections
     - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
 
 extra_css:
   - assets/extra.css
@@ -25,9 +30,12 @@ plugins:
 markdown_extensions:
   - tables
   - admonition
+  - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
   - toc:
       permalink: true
 
@@ -59,6 +67,7 @@ nav:
   - Other Data:
       - other-sources/index.md
       - Company Information, Filings & News: other-sources/company-info-news.md
+      - Identifiers & Data Linking: other-sources/identifiers.md
       - Annual Reports: other-sources/annual-reports.md
       - ESG, Climate & Sustainable Finance: other-sources/esg-climate.md
       - Asset Pricing: other-sources/asset-pricing.md

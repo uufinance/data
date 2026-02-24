@@ -15,6 +15,7 @@ WRDS Bond Returns provides **monthly corporate bond return data**, constructed b
 
 - **WRDS web interface**: <a href="https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-bond-returns/wrds-bond-returns/" target="_blank">WRDS Bond Returns</a>
 - **Python API library**: `wrdsapps_bondret`
+- **Update frequency**: Monthly
 - **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/wrdsapps_bondret/" target="_blank">Link</a>
 
 ## Example: Querying Bond Returns

@@ -65,6 +65,7 @@ apple = conn.raw_sql("""
 """, date_cols=['datadate'])
 ```
 
-> **Tip**: Always filter on `datafmt = 'STD'`, `consol = 'C'`, and `indfmt = 'INDL'` when querying `funda`/`fundq` to avoid duplicate rows (restated data, different consolidation levels, etc.).
+!!! tip
+    Always filter on `datafmt = 'STD'`, `consol = 'C'`, and `indfmt = 'INDL'` when querying `funda`/`fundq` to avoid duplicate rows (restated data, different consolidation levels, etc.).
 
 For more examples, see the [Python API notebook](../notebook.md).

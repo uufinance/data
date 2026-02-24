@@ -85,6 +85,7 @@ restatements = conn.raw_sql("""
 """)
 ```
 
-> **Tip**: Table names on WRDS may change over time. Always run `conn.list_tables(library='audit_audit_comp')` to verify the current table names, and use `conn.describe_table(library='audit_audit_comp', table='<table_name>')` to inspect available columns before querying.
+!!! tip
+    Table names on WRDS may change over time. Always run `conn.list_tables(library='audit_audit_comp')` to verify the current table names, and use `conn.describe_table(library='audit_audit_comp', table='<table_name>')` to inspect available columns before querying.
 
 For more examples, see the [Python API notebook](../notebook.md).

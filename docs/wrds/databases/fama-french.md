@@ -17,11 +17,12 @@ The Fama-French dataset on WRDS provides **factor returns, research portfolios, 
 
 - **WRDS web interface**: <a href="https://wrds-www.wharton.upenn.edu/pages/get-data/fama-french-portfolios-and-factors/" target="_blank">Fama-French Portfolios and Factors</a>
 - **Python API library**: `ff`
+- **Update frequency**: Monthly
 - **Postgres schema**: `ff_all`
 - **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/ff_all/" target="_blank">Link</a>
 - **WRDS Cloud path**: `/wrds/ff/sasdata/*.*`
 
-## Tables
+## Key Tables
 
 | Table | Description | Frequency |
 |-------|-------------|-----------|

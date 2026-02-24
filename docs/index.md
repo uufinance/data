@@ -21,6 +21,7 @@ Follow us on <a href="https://www.linkedin.com/company/finance-utrecht/" target=
 | Topic | Description |
 |-------|-------------|
 | [Company Information, Filings & News](other-sources/company-info-news.md) | SEC EDGAR filings, financial statements, insider transactions, and news (Nexis Uni) |
+| [Identifiers & Data Linking](other-sources/identifiers.md) | CIK, GVKEY, CUSIP, ISIN — how to link datasets across sources |
 | [Annual Reports](other-sources/annual-reports.md) | PDF annual reports for large global companies |
 | [ESG, Climate & Sustainable Finance](other-sources/esg-climate.md) | ESG ratings, climate targets, emissions data, impact accounting |
 | [Asset Pricing](other-sources/asset-pricing.md) | Fama-French factors, replicated portfolios, bond factors, SEC market structure data |

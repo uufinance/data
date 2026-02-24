@@ -23,7 +23,7 @@ Coverage starts from **1992** for most companies.
 - **Update frequency**: Monthly
 - **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/comp_execucomp/" target="_blank">Link</a>
 
-## Tables
+## Key Tables
 
 ### Core Compensation Data
 
