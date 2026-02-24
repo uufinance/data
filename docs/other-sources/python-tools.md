@@ -2,13 +2,13 @@
 
 ## Open-Source Tools by Jeroen Bouma (USE alumnus)
 
-- <a href="https://www.jeroenbouma.com/projects/financetoolkit" target="_blank">Finance Toolkit</a> — An open-source Python toolkit for transparent financial analysis. Covers 150+ financial ratios, indicators, and performance measurements for equities, options, currencies, ETFs, indices, and more. Also includes economic indicators for 60+ countries. (<a href="https://github.com/JerBouma/FinanceToolkit" target="_blank">GitHub</a>)
+- <a href="https://www.jeroenbouma.com/projects/financetoolkit" target="_blank">Finance Toolkit</a> <span class="badge badge-python">Python</span> <span class="badge badge-global">Global</span> — An open-source Python toolkit for transparent financial analysis. Covers 150+ financial ratios, indicators, and performance measurements for equities, options, currencies, ETFs, indices, and more. Also includes economic indicators for 60+ countries. (<a href="https://github.com/JerBouma/FinanceToolkit" target="_blank">GitHub</a>)
 
 ```bash
 pip install financetoolkit
 ```
 
-- <a href="https://www.jeroenbouma.com/projects/financedatabase" target="_blank">Finance Database</a> — A database of 300,000+ financial symbols (equities, ETFs, funds, indices, currencies, cryptocurrencies, money markets) categorized by country, sector, and industry. Useful for identifying which products exist in a given market or industry. (<a href="https://github.com/JerBouma/FinanceDatabase" target="_blank">GitHub</a>)
+- <a href="https://www.jeroenbouma.com/projects/financedatabase" target="_blank">Finance Database</a> <span class="badge badge-python">Python</span> <span class="badge badge-global">Global</span> — A database of 300,000+ financial symbols (equities, ETFs, funds, indices, currencies, cryptocurrencies, money markets) categorized by country, sector, and industry. Useful for identifying which products exist in a given market or industry. (<a href="https://github.com/JerBouma/FinanceDatabase" target="_blank">GitHub</a>)
 
 ```bash
 pip install financedatabase
@@ -16,7 +16,7 @@ pip install financedatabase
 
 ## Other Open-Source Tools
 
-- <a href="https://pypi.org/project/yfinance/" target="_blank">yfinance</a> — Widely-used open-source Python library for downloading market data from Yahoo Finance. Covers historical prices, dividends, splits, fundamentals, options chains, and more for stocks, ETFs, mutual funds, currencies, and cryptocurrencies. (<a href="https://github.com/ranaroussi/yfinance" target="_blank">GitHub</a>)
+- <a href="https://pypi.org/project/yfinance/" target="_blank">yfinance</a> <span class="badge badge-python">Python</span> <span class="badge badge-global">Global</span> — Widely-used open-source Python library for downloading market data from Yahoo Finance. Covers historical prices, dividends, splits, fundamentals, options chains, and more for stocks, ETFs, mutual funds, currencies, and cryptocurrencies. (<a href="https://github.com/ranaroussi/yfinance" target="_blank">GitHub</a>)
 
 ```bash
 pip install yfinance

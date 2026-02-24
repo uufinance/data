@@ -13,7 +13,7 @@ Free and open-access data sources for finance research, organized by topic.
 | [Economic Data (with APIs)](economic-data.md) | FRED, ECB, Bundesbank, IMF, OECD, BIS, exchange rates, monetary policy |
 | [Macroeconomic & Country-Level Data](macro-country-data.md) | Country distances, disasters, macro history, World Bank, corruption, lobbying |
 | [Survey Data](survey-data.md) | Household and consumer surveys (NFCS, LISS, HFCS, SCF) |
-| [Sentiment & Culture](sentiment-culture.md) | Investor sentiment, policy uncertainty, cultural dimensions, values surveys |
+| [Sentiment & Culture](sentiment-culture.md) | Investor sentiment, cultural dimensions, values surveys |
+| [Economic Policy Uncertainty](economic-policy-uncertainty.md) | EPU, geopolitical risk, world uncertainty, and 50+ text-based indices (Baker, Bloom & Davis) |
 | [Python Tools & Books](python-tools.md) | Open-source Python packages and books for financial analysis |
 | [Researcher Data Pages](researcher-data.md) | Individual researcher datasets (Goyal, Stambaugh, He, and others) |
-| [Publicly Available Databases](publicly-available-databases.md) | Comprehensive list compiled by Mark Dijkstra (VU Amsterdam) |

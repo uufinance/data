@@ -1,6 +1,6 @@
 # Commodities & Futures Data
 
-## CFTC Commitment of Traders (COT) Reports
+## CFTC Commitment of Traders (COT) Reports <span class="badge badge-api">API</span> <span class="badge badge-csv">CSV</span> <span class="badge badge-python">Python</span> <span class="badge badge-us">US</span>
 
 The <a href="https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm" target="_blank">Commitments of Traders (COT)</a> reports are published weekly by the U.S. Commodity Futures Trading Commission (CFTC). They provide a breakdown of open interest positions in U.S. futures and options markets, classified by trader type. The data reflects positions as of each Tuesday and is released every Friday at 3:30 PM Eastern time. COT data is widely used in finance research to study hedging activity, speculative positioning, commodity market sentiment, and the role of different trader categories in price formation.
 

@@ -1,8 +1,8 @@
 # Company Information, Filings & News
 
-- <a href="https://www.nexisuni.com/" target="_blank">Nexis Uni</a> — Full text of articles from Dutch and international newspapers and news magazines. Also provides company information on Dutch and international businesses, and Market Insight.
+- <a href="https://www.nexisuni.com/" target="_blank">Nexis Uni</a> <span class="badge badge-global">Global</span> — Full text of articles from Dutch and international newspapers and news magazines. Also provides company information on Dutch and international businesses, and Market Insight.
 
-## SEC EDGAR — Company Filings & Financial Data
+## SEC EDGAR — Company Filings & Financial Data <span class="badge badge-api">API</span> <span class="badge badge-csv">CSV</span> <span class="badge badge-us">US</span>
 
 The <a href="https://www.sec.gov/data-research/sec-markets-data" target="_blank">SEC Data Library</a> provides freely downloadable datasets extracted from filings submitted to the U.S. Securities and Exchange Commission. All data is public and requires no authentication.
 
