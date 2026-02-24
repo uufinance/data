@@ -37,6 +37,7 @@ nav:
           - Compustat Bank: wrds/databases/compustat-bank.md
           - Compustat Global: wrds/databases/compustat-global.md
           - ExecuComp: wrds/databases/execucomp.md
+          - Audit Analytics: wrds/databases/audit-analytics.md
           - Compustat Segments: wrds/databases/compustat-segments.md
           - Mergent FISD: wrds/databases/mergent-fisd.md
           - TRACE: wrds/databases/trace.md
