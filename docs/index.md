@@ -29,6 +29,7 @@ Follow us on <a href="https://www.linkedin.com/company/finance-utrecht/" target=
 | [Economic Data (with APIs)](other-sources/economic-data.md) | FRED, ECB, Bundesbank, IMF, OECD, BIS, exchange rates, monetary policy |
 | [Macroeconomic & Country-Level Data](other-sources/macro-country-data.md) | Country distances, disasters, macro history, World Bank, corruption, lobbying |
 | [Survey Data](other-sources/survey-data.md) | Household and consumer surveys (NFCS, LISS, HFCS, SCF) |
-| [Sentiment & Culture](other-sources/sentiment-culture.md) | Investor sentiment, policy uncertainty, cultural dimensions |
+| [Sentiment & Culture](other-sources/sentiment-culture.md) | Investor sentiment, cultural dimensions, values surveys |
+| [Economic Policy Uncertainty](other-sources/economic-policy-uncertainty.md) | EPU, geopolitical risk, world uncertainty, and 50+ text-based indices (Baker, Bloom & Davis) |
 | [Python Tools & Books](other-sources/python-tools.md) | Open-source Python packages and books for financial analysis |
 | [Researcher Data Pages](other-sources/researcher-data.md) | Individual researcher datasets (Goyal, Stambaugh, He, and others) |
