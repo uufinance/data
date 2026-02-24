@@ -9,6 +9,8 @@ theme:
     code: Roboto Mono
   palette:
     scheme: default
+    primary: custom
+    accent: custom
   features:
     - content.code.copy
     - navigation.sections
@@ -50,8 +52,10 @@ nav:
           - World Indices: wrds/databases/world-indices.md
           - S&P Dow Jones Indices: wrds/databases/sp-dow-jones-indices.md
           - Fama-French Portfolios and Factors: wrds/databases/fama-french.md
-      - FactSet: factset/index.md
-      - LSEG Workspace: lseg/index.md
+      - FactSet:
+          - factset/index.md
+      - LSEG Workspace:
+          - lseg/index.md
       - Other Data:
           - other-sources/index.md
           - Annual Reports: other-sources/annual-reports.md
