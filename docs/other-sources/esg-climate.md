@@ -2,11 +2,6 @@
 
 ## Company-Level ESG Data
 
-| Provider | Coverage | Granularity | Access | Update Cycle |
-|----------|----------|-------------|--------|-------------|
-| MSCI ESG | ~3,000 companies (ACWI) | Company & fund ratings (AAA–CCC) | Lookup tool | Ongoing |
-| CDP | 22,000+ companies | Climate, water, deforestation scores | Scores & A-Lists | Annual disclosure |
-
 - <a href="https://www.msci.com/data-and-analytics/sustainability-solutions/esg-ratings-climate-search-tool" target="_blank">MSCI ESG Ratings</a> — Lookup tool for individual company and fund ESG ratings (AAA–CCC scale). MSCI has by far the largest market share among ESG rating providers. Covers ~3,000 companies in the MSCI ACWI.
 - <a href="https://www.cdp.net/en/data/scores" target="_blank">CDP (Carbon Disclosure Project)</a> — Environmental disclosure data from 22,000+ companies (climate change, water security, deforestation). Annual disclosure cycle. Company scores and A-Lists are publicly available.
 
