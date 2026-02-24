@@ -20,15 +20,15 @@ Follow us on <a href="https://www.linkedin.com/company/finance-utrecht/" target=
 
 | Topic | Description |
 |-------|-------------|
-| [Annual Reports](other-sources/annual-reports.md) | PDF annual reports for large global companies |
 | [Company Information, Filings & News](other-sources/company-info-news.md) | SEC EDGAR filings, financial statements, insider transactions, and news (Nexis Uni) |
-| [Python Tools](other-sources/python-tools.md) | Open-source Python packages for financial analysis |
+| [Annual Reports](other-sources/annual-reports.md) | PDF annual reports for large global companies |
 | [ESG, Climate & Sustainable Finance](other-sources/esg-climate.md) | ESG ratings, climate targets, emissions data, impact accounting |
 | [Asset Pricing](other-sources/asset-pricing.md) | Fama-French factors, replicated portfolios, bond factors, SEC market structure data |
 | [Commodities & Futures Data](other-sources/commodities-futures.md) | CFTC Commitment of Traders reports, futures market positioning data, with free API access |
-| [Economic Data (with APIs)](other-sources/economic-data.md) | FRED, ECB, Bundesbank, exchange rates, monetary policy |
+| [Economic Data (with APIs)](other-sources/economic-data.md) | FRED, ECB, Bundesbank, IMF, OECD, BIS, exchange rates, monetary policy |
+| [Macroeconomic & Country-Level Data](other-sources/macro-country-data.md) | Country distances, disasters, macro history, World Bank, corruption, lobbying |
 | [Survey Data](other-sources/survey-data.md) | Household and consumer surveys (NFCS, LISS, HFCS, SCF) |
 | [Sentiment & Culture](other-sources/sentiment-culture.md) | Investor sentiment, policy uncertainty, cultural dimensions |
-| [Macroeconomic & Country-Level Data](other-sources/macro-country-data.md) | Country distances, disasters, macro history, corruption, lobbying |
+| [Python Tools & Books](other-sources/python-tools.md) | Open-source Python packages and books for financial analysis |
 | [Researcher Data Pages](other-sources/researcher-data.md) | Individual researcher datasets (Goyal, Stambaugh, He, and others) |
 | [Publicly Available Databases](other-sources/publicly-available-databases.md) | Comprehensive list compiled by Mark Dijkstra (VU Amsterdam) |

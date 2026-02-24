@@ -6,6 +6,9 @@
 
 The <a href="https://www.sec.gov/data-research/sec-markets-data" target="_blank">SEC Data Library</a> provides freely downloadable datasets extracted from filings submitted to the U.S. Securities and Exchange Commission. All data is public and requires no authentication.
 
+!!! tip
+    EDGAR APIs are free with no authentication required. Rate limit: 10 requests per second. Include a `User-Agent` header with your name and email in programmatic requests.
+
 - <a href="https://www.sec.gov/edgar/search/" target="_blank">EDGAR Full-Text Search</a> — Search the full text of all SEC electronic filings since 2001, including 10-K, 10-Q, 8-K, proxy statements, and all other SEC forms. Searchable by company, filing type, date range, and keywords.
 - <a href="https://www.sec.gov/search-filings/edgar-application-programming-interfaces" target="_blank">EDGAR APIs</a> — Free RESTful JSON APIs for programmatic access to company submissions, financial facts (XBRL), and filing metadata. No authentication or API key required. Includes the Company Facts API, Submissions API, and XBRL Frames API. Max 10 requests/second.
 - <a href="https://www.sec.gov/data-research/sec-markets-data/financial-statement-data-sets" target="_blank">Financial Statement Data Sets</a> — Numeric data from the face financials of all public company financial reports filed in XBRL. Covers balance sheets, income statements, and cash flow statements. Updated quarterly.
