@@ -37,6 +37,7 @@ nav:
           - Compustat Bank: wrds/databases/compustat-bank.md
           - Compustat Global: wrds/databases/compustat-global.md
           - ExecuComp: wrds/databases/execucomp.md
+          - Audit Analytics: wrds/databases/audit-analytics.md
           - Compustat Segments: wrds/databases/compustat-segments.md
           - Mergent FISD: wrds/databases/mergent-fisd.md
           - TRACE: wrds/databases/trace.md
@@ -48,16 +49,17 @@ nav:
           - S&P Dow Jones Indices: wrds/databases/sp-dow-jones-indices.md
           - Fama-French: wrds/databases/fama-french.md
       - FactSet: factset/index.md
-  - Other Data:
-      - Overview: other-sources/index.md
-      - Annual Reports: other-sources/annual-reports.md
-      - Company Information & News: other-sources/company-info-news.md
-      - Python Tools: other-sources/python-tools.md
-      - ESG, Climate & Sustainable Finance: other-sources/esg-climate.md
-      - Asset Pricing: other-sources/asset-pricing.md
-      - Economic Data: other-sources/economic-data.md
-      - Survey Data: other-sources/survey-data.md
-      - Sentiment & Culture: other-sources/sentiment-culture.md
-      - Macroeconomic & Country-Level Data: other-sources/macro-country-data.md
-      - Researcher Data Pages: other-sources/researcher-data.md
-      - Publicly Available Databases: other-sources/publicly-available-databases.md
+      - LSEG Workspace: lseg/index.md
+      - Other Data:
+          - Overview: other-sources/index.md
+          - Annual Reports: other-sources/annual-reports.md
+          - Company Information & News: other-sources/company-info-news.md
+          - Python Tools: other-sources/python-tools.md
+          - ESG, Climate & Sustainable Finance: other-sources/esg-climate.md
+          - Asset Pricing: other-sources/asset-pricing.md
+          - Economic Data: other-sources/economic-data.md
+          - Survey Data: other-sources/survey-data.md
+          - Sentiment & Culture: other-sources/sentiment-culture.md
+          - Macroeconomic & Country-Level Data: other-sources/macro-country-data.md
+          - Researcher Data Pages: other-sources/researcher-data.md
+          - Publicly Available Databases: other-sources/publicly-available-databases.md
