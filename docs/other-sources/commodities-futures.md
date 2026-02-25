@@ -64,6 +64,20 @@ pip install cot_reports
 - <a href="https://www.financialresearch.gov/hedge-fund-monitor/datasets/tff/" target="_blank">Office of Financial Research (OFR) — TFF Data</a> — The OFR (U.S. Treasury) provides downloadable Traders in Financial Futures datasets with visualization tools, useful for research on hedge fund and institutional positioning.
 - <a href="https://cot-reports.com/" target="_blank">COT-Reports.com</a> — Free COT analysis platform with 10 years of historical data, charts, tables, and analysis tools covering 340+ futures markets.
 
+## ESMA Commitment of Traders Reports <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span>
+
+The <a href="https://registers.esma.europa.eu/publication/searchRegister?core=esma_registers_coder58" target="_blank">ESMA Commitment of Traders Reports</a> are the European equivalent of the CFTC COT reports, published weekly by the European Securities and Markets Authority (ESMA) under MiFID II Article 58. Trading venues in the EU are required to submit weekly reports on aggregate open positions held by different categories of market participants in commodity derivatives and emission allowances. ESMA centrally publishes these reports, covering European commodity futures markets that are largely absent from CFTC data.
+
+The reports classify position holders into five categories:
+
+- **Investment firms or credit institutions**
+- **Investment funds** (including UCITS and AIFs)
+- **Other financial institutions**
+- **Commercial undertakings** (producers, processors, and commercial end-users)
+- **Operators with compliance obligations** under the EU Emissions Trading Scheme (ETS)
+
+Data reflects positions as of the close of business each Friday. Compared to CFTC reports, the ESMA data uniquely identifies EU ETS compliance operators as a separate trader category, and covers European energy, agricultural, and carbon derivatives markets.
+
 ## European Electricity Market Data
 
 ### ENTSO-E Transparency Platform <span class="badge badge-api">API</span> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span>
