@@ -15,7 +15,7 @@ OTC Markets Group data on WRDS provides **information on securities traded on OT
 
 - **WRDS web interface**: <a href="https://wrds-www.wharton.upenn.edu/pages/get-data/otc-markets-group/" target="_blank">OTC Markets Group</a>
 - **Python API library**: `otc`
-- **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/otc/" target="_blank">Link</a>
+- **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/otc_endofday/" target="_blank">Link</a>
 
 ## Example
 

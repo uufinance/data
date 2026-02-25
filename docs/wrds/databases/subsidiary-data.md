@@ -17,7 +17,7 @@ This data is useful for research on corporate structure, multinational operation
 
 - **WRDS web interface**: <a href="https://wrds-www.wharton.upenn.edu/pages/get-data/subsidiary-data-wrds/" target="_blank">Subsidiary Data</a>
 - **Python API library**: `subdiary`
-- **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/subdiary/" target="_blank">Link</a>
+- **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/wrdsapps_subsidiary/" target="_blank">Link</a>
 
 ## Example
 
