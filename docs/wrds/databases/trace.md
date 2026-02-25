@@ -18,7 +18,7 @@ TRACE is the primary source for academic research on corporate bond market liqui
 
 - **WRDS web interface**: <a href="https://wrds-www.wharton.upenn.edu/pages/get-data/otc-corporate-bond-and-agency-debt-bond-transaction-data/trace-enhanced/bond-trades/" target="_blank">TRACE Enhanced — Bond Trades</a>
 - **Python API library**: `trace`
-- **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/trace/" target="_blank">Link</a>
+- **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/trace_enhanced/" target="_blank">Enhanced</a> | <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/trace_standard/" target="_blank">Standard</a>
 
 ## Key Tables
 

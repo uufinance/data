@@ -18,7 +18,7 @@ The Mergent FISD provides **comprehensive data on fixed income (bond) securities
 - **WRDS product name**: `fisd` (or search for Mergent in the WRDS web interface)
 - **Python API library**: `fisd`
 - **Update frequency**: Varies by table
-- **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/fisd/" target="_blank">Link</a>
+- **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/fisd_fisd/" target="_blank">FISD</a> | <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/fisd_common/" target="_blank">Common</a>
 
 ## Key Tables
 

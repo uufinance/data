@@ -18,7 +18,7 @@ This data is widely used in research on corporate innovation, R&D productivity, 
 
 - **WRDS web interface**: <a href="https://wrds-www.wharton.upenn.edu/pages/get-data/wrds-us-patents/" target="_blank">WRDS US Patents</a>
 - **Python API library**: `patent`
-- **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/patent/" target="_blank">Link</a>
+- **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/wrdsapps_patents/" target="_blank">Link</a>
 
 ## Example
 

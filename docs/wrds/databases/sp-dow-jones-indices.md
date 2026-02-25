@@ -18,7 +18,7 @@ This data is commonly used for benchmarking, studying index effects (additions/d
 - **WRDS web interface**: <a href="https://wrds-www.wharton.upenn.edu/pages/get-data/historical-sp-dow-jones-indices-spdji/" target="_blank">Historical S&P Dow Jones Indices</a>
 - **Python API library**: `spdji`
 - **Update frequency**: Daily
-- **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/spdji/" target="_blank">Link</a>
+- **Data dictionary**: <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/djones_all/" target="_blank">Link</a>
 
 ## Example
 
