@@ -85,6 +85,7 @@ nav:
           - Identifiers & Data Linking: other-sources/identifiers.md
       - News & Media:
           - other-sources/news-media/index.md
+          - News: other-sources/news-media/news.md
           - Social Media: other-sources/social-media.md
       - ESG, Climate & Sustainable Finance: other-sources/esg-climate.md
       - Asset Pricing: other-sources/asset-pricing.md
