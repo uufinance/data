@@ -1,3 +1,5 @@
+<img src="assets/images/Finance.png" alt="Finance" style="height: 72px; margin-bottom: 0.5rem;">
+
 Welcome to the *<a href="https://www.uu.nl/en/organisation/utrecht-university-school-of-economics-use/research/research/finance" target="_blank">Finance</a>* Data GitHub of
 # Utrecht University School of Economics
 On this website you can find manuals to download and process your data.
@@ -20,16 +22,15 @@ Follow us on <a href="https://www.linkedin.com/company/finance-utrecht/" target=
 
 | Topic | Description |
 |-------|-------------|
-| [Company Information, Filings & News](other-sources/company-info-news.md) | SEC EDGAR filings, financial statements, insider transactions, and news (Nexis Uni) |
-| [Identifiers & Data Linking](other-sources/identifiers.md) | CIK, GVKEY, CUSIP, ISIN — how to link datasets across sources |
-| [Annual Reports](other-sources/annual-reports.md) | PDF annual reports for large global companies |
+| [Company Information](other-sources/company-info/index.md) | SEC filings, annual reports, identifiers, and industry classification (Hoberg & Phillips) |
+| [News & Media](other-sources/news-media.md) | Nexis Uni, Structure of News, Google Trends |
+| [Social Media](other-sources/social-media.md) | Twitter/X, Reddit, Meta, YouTube, GitHub data repositories |
 | [ESG, Climate & Sustainable Finance](other-sources/esg-climate.md) | ESG ratings, climate targets, emissions data, impact accounting |
 | [Asset Pricing](other-sources/asset-pricing.md) | Fama-French factors, replicated portfolios, bond factors, SEC market structure data |
 | [Commodities & Futures Data](other-sources/commodities-futures.md) | CFTC Commitment of Traders reports, futures market positioning data, with free API access |
-| [Economic Data (with APIs)](other-sources/economic-data.md) | FRED, ECB, Bundesbank, IMF, OECD, BIS, exchange rates, monetary policy |
-| [Macroeconomic & Country-Level Data](other-sources/macro-country-data.md) | Country distances, disasters, macro history, World Bank, corruption, lobbying |
+| [Economic & Macroeconomic Data](other-sources/economic/index.md) | FRED, IMF, OECD, BIS, World Bank, country-level data, policy uncertainty indices |
 | [Survey Data](other-sources/survey-data.md) | Household and consumer surveys (NFCS, LISS, HFCS, SCF) |
 | [Sentiment & Culture](other-sources/sentiment-culture.md) | Investor sentiment, cultural dimensions, values surveys |
-| [Economic Policy Uncertainty](other-sources/economic-policy-uncertainty.md) | EPU, geopolitical risk, world uncertainty, and 50+ text-based indices (Baker, Bloom & Davis) |
 | [Python Tools & Books](other-sources/python-tools.md) | Open-source Python packages and books for financial analysis |
 | [Researcher Data Pages](other-sources/researcher-data.md) | Individual researcher datasets (Goyal, Stambaugh, He, and others) |
+| [Journal Replication Packages](other-sources/replication-packages.md) | Harvard Dataverse collections for JFQA, RFS, RCFS, RAPS, FMA, and others |

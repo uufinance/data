@@ -77,18 +77,25 @@ nav:
           - Using LSEG Workspace: lseg/using-lseg.md
   - Other Data:
       - other-sources/index.md
-      - Company Information, Filings & News: other-sources/company-info-news.md
-      - Identifiers & Data Linking: other-sources/identifiers.md
-      - Annual Reports: other-sources/annual-reports.md
+      - Company Information:
+          - other-sources/company-info/index.md
+          - Company Filings (SEC EDGAR): other-sources/company-info-news.md
+          - Annual Reports: other-sources/annual-reports.md
+          - Identifiers & Data Linking: other-sources/identifiers.md
+      - News & Media:
+          - other-sources/news-media.md
+          - Social Media: other-sources/social-media.md
       - ESG, Climate & Sustainable Finance: other-sources/esg-climate.md
       - Asset Pricing: other-sources/asset-pricing.md
       - Commodities & Futures Data: other-sources/commodities-futures.md
       - Cryptocurrency & Digital Asset Data: other-sources/cryptocurrency.md
-      - Economic Data (with APIs): other-sources/economic-data.md
-      - Macroeconomic & Country-Level Data: other-sources/macro-country-data.md
+      - Economic & Macroeconomic Data:
+          - other-sources/economic/index.md
+          - Time Series & APIs: other-sources/economic-data.md
+          - Country-Level Data: other-sources/macro-country-data.md
+          - Policy Uncertainty: other-sources/economic-policy-uncertainty.md
       - Survey Data: other-sources/survey-data.md
       - Sentiment & Culture: other-sources/sentiment-culture.md
-      - Economic Policy Uncertainty: other-sources/economic-policy-uncertainty.md
       - Python Tools & Books: other-sources/python-tools.md
       - Researcher Data Pages: other-sources/researcher-data.md
       - Journal Replication Packages: other-sources/replication-packages.md
