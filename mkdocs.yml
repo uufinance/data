@@ -44,28 +44,29 @@ nav:
   - Databases:
       - WRDS:
           - wrds/index.md
-          - Available Data: wrds/data.md
+          - Available Data:
+              - wrds/data.md
+              - Corporate Financials:
+                  - Compustat North America: wrds/databases/compustat-north-america.md
+                  - Compustat Bank: wrds/databases/compustat-bank.md
+                  - Compustat Global: wrds/databases/compustat-global.md
+                  - Compustat Historical Segments: wrds/databases/compustat-segments.md
+              - Compensation & Governance:
+                  - ExecuComp: wrds/databases/execucomp.md
+                  - Audit Analytics: wrds/databases/audit-analytics.md
+              - Fixed Income & Bond Markets:
+                  - Mergent FISD: wrds/databases/mergent-fisd.md
+                  - TRACE: wrds/databases/trace.md
+                  - Bond Returns: wrds/databases/bond-returns.md
+              - Market Data & Indices:
+                  - World Indices: wrds/databases/world-indices.md
+                  - S&P Dow Jones Indices: wrds/databases/sp-dow-jones-indices.md
+                  - Fama-French Portfolios and Factors: wrds/databases/fama-french.md
+                  - OTC Markets: wrds/databases/otc-markets.md
+              - Corporate Structure & Innovation:
+                  - Subsidiary Data: wrds/databases/subsidiary-data.md
+                  - US Patents: wrds/databases/us-patents.md
           - Python on WRDS: wrds/notebook.md
-          - Corporate Financials:
-              - Compustat North America: wrds/databases/compustat-north-america.md
-              - Compustat Bank: wrds/databases/compustat-bank.md
-              - Compustat Global: wrds/databases/compustat-global.md
-              - Compustat Historical Segments: wrds/databases/compustat-segments.md
-          - Compensation & Governance:
-              - ExecuComp: wrds/databases/execucomp.md
-              - Audit Analytics: wrds/databases/audit-analytics.md
-          - Fixed Income & Bond Markets:
-              - Mergent FISD: wrds/databases/mergent-fisd.md
-              - TRACE: wrds/databases/trace.md
-              - Bond Returns: wrds/databases/bond-returns.md
-          - Market Data & Indices:
-              - World Indices: wrds/databases/world-indices.md
-              - S&P Dow Jones Indices: wrds/databases/sp-dow-jones-indices.md
-              - Fama-French Portfolios and Factors: wrds/databases/fama-french.md
-              - OTC Markets: wrds/databases/otc-markets.md
-          - Corporate Structure & Innovation:
-              - Subsidiary Data: wrds/databases/subsidiary-data.md
-              - US Patents: wrds/databases/us-patents.md
       - FactSet:
           - factset/index.md
           - Available Data: factset/data.md
