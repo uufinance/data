@@ -76,3 +76,29 @@ a:hover {
   background: #e0f2f1;
   color: #00695c;
 }
+
+.badge-equities {
+  background: #e8eaf6;
+  color: #283593;
+}
+
+.badge-bonds {
+  background: #fafafa;
+  color: #424242;
+  border: 1px solid #bdbdbd;
+}
+
+.badge-crypto {
+  background: #fff8e1;
+  color: #f57f17;
+}
+
+.badge-fx {
+  background: #f3e5f5;
+  color: #6a1b9a;
+}
+
+.badge-commodities {
+  background: #fbe9e7;
+  color: #bf360c;
+}

@@ -9,7 +9,8 @@ Free and open-access data sources for finance research, organized by topic.
 | [Annual Reports](annual-reports.md) | PDF annual reports for large global companies |
 | [ESG, Climate & Sustainable Finance](esg-climate.md) | ESG ratings, climate targets, emissions data, impact accounting |
 | [Asset Pricing](asset-pricing.md) | Fama-French factors, replicated portfolios, bond factors, SEC market structure data |
-| [Commodities & Futures Data](commodities-futures.md) | CFTC Commitment of Traders reports, futures market positioning data, with free API access |
+| [Commodities & Futures Data](commodities-futures.md) | CFTC Commitment of Traders reports, futures market positioning data, ENTSO-E electricity data, with free API access |
+| [Cryptocurrency & Digital Asset Data](cryptocurrency.md) | Free APIs and datasets for cryptocurrency prices, on-chain metrics, and exchange data (CoinGecko, CCXT, Binance) |
 | [Economic Data (with APIs)](economic-data.md) | FRED, ECB, Bundesbank, IMF, OECD, BIS, exchange rates, monetary policy |
 | [Macroeconomic & Country-Level Data](macro-country-data.md) | Country distances, disasters, macro history, World Bank, corruption, lobbying |
 | [Survey Data](survey-data.md) | Household and consumer surveys (NFCS, LISS, HFCS, SCF) |

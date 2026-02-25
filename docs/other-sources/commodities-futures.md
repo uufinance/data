@@ -63,3 +63,16 @@ pip install cot_reports
 - <a href="https://www.cmegroup.com/tools-information/quikstrike/commitment-of-traders.html" target="_blank">CME Group QuikStrike COT Tool</a> — Interactive visualization of CFTC COT data for CME-listed contracts, with configurable charts and historical comparisons.
 - <a href="https://www.financialresearch.gov/hedge-fund-monitor/datasets/tff/" target="_blank">Office of Financial Research (OFR) — TFF Data</a> — The OFR (U.S. Treasury) provides downloadable Traders in Financial Futures datasets with visualization tools, useful for research on hedge fund and institutional positioning.
 - <a href="https://cot-reports.com/" target="_blank">COT-Reports.com</a> — Free COT analysis platform with 10 years of historical data, charts, tables, and analysis tools covering 340+ futures markets.
+
+## European Electricity Market Data
+
+### ENTSO-E Transparency Platform <span class="badge badge-api">API</span> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span>
+
+The <a href="https://transparency.entsoe.eu/" target="_blank">ENTSO-E Transparency Platform</a> provides free access to European electricity market data, published by the European Network of Transmission System Operators for Electricity. Covers actual and forecast electricity generation, cross-border flows, day-ahead prices, load, and balancing data for 35+ European countries. Data is published with a delay of 24 hours or less. Free registration required for API access.
+
+- <a href="https://transparency.entsoe.eu/dashboard/show" target="_blank">Transparency Platform Dashboard</a> — Interactive dashboard with real-time and historical electricity data. Data downloadable as CSV directly from the web interface.
+- <a href="https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html" target="_blank">ENTSO-E RESTful API</a> — Programmatic access to all transparency data via a RESTful API. Requires a free account and API security token. Python access via the <a href="https://pypi.org/project/entsoe-py/" target="_blank">`entsoe-py`</a> client library.
+
+```bash
+pip install entsoe-py
+```
