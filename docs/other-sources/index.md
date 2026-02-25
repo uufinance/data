@@ -18,3 +18,4 @@ Free and open-access data sources for finance research, organized by topic.
 | [Economic Policy Uncertainty](economic-policy-uncertainty.md) | EPU, geopolitical risk, world uncertainty, and 50+ text-based indices (Baker, Bloom & Davis) |
 | [Python Tools & Books](python-tools.md) | Open-source Python packages and books for financial analysis |
 | [Researcher Data Pages](researcher-data.md) | Individual researcher datasets (Goyal, Stambaugh, He, and others) |
+| [Journal Replication Packages](replication-packages.md) | Harvard Dataverse collections for JFQA, RFS, RCFS, RAPS, FMA, and others |
