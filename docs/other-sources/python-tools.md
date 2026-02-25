@@ -22,6 +22,12 @@ pip install financedatabase
 pip install yfinance
 ```
 
+- <a href="https://www.alphavantage.co/" target="_blank">Alpha Vantage</a> <span class="badge badge-api">API</span> <span class="badge badge-python">Python</span> <span class="badge badge-global">Global</span> — Free API providing historical and real-time market data for equities, forex, and cryptocurrencies, plus 50+ technical indicators and U.S. economic indicators. Free tier available (25 API calls/day); premium plans for higher rate limits. Requires a free API key. Python access via <a href="https://pypi.org/project/alpha-vantage/" target="_blank">`alpha-vantage`</a>. (<a href="https://github.com/RomelTorres/alpha_vantage" target="_blank">GitHub</a>)
+
+```bash
+pip install alpha-vantage
+```
+
 ## Books
 
 - <a href="https://www.tidy-finance.org/python/" target="_blank">Tidy Finance with Python</a> — Open-source textbook on empirical finance with Python, by Scheuch, Voigt, Weiss & Frey (Chapman & Hall/CRC). Covers tidy data principles, asset pricing (beta estimation, portfolio sorts, Fama-French factors), machine learning (ridge, lasso, random forests, neural networks), and portfolio optimization. Full book available free online. Also provides the <a href="https://github.com/tidy-finance/py-tidyfinance" target="_blank">`tidyfinance`</a> Python package with helper functions for downloading and preparing financial datasets.
