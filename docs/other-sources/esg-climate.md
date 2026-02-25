@@ -12,7 +12,6 @@
 - <a href="https://www.robeco.com/en-int/sustainable-investing/how-do-companies-and-countries-score-on-sustainability" target="_blank">Robeco Sustainability Scores</a> <span class="badge badge-global">Global</span> — Sustainability scorecards for both companies and countries, covering ESG dimensions and SDG alignment. Provided by Robeco's SI Research team. Individual scores browsable publicly.
 - <a href="https://corporateknights.com/rankings/global-100-rankings/2024-global-100-rankings/the-20th-annual-global-100/" target="_blank">Corporate Knights Global 100</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Annual ranking of the 100 most sustainable corporations globally, based on resource productivity, clean revenue, CEO-to-worker pay equity, and other metrics. By Corporate Knights. Results downloadable as data.
 - <a href="https://knowesg.com/esg-ratings/directory" target="_blank">KnowESG Ratings Directory</a> <span class="badge badge-global">Global</span> — Directory of ESG ratings and scores from multiple providers, browsable by company, sector, and rating agency. Useful for comparing ESG ratings across different methodologies.
-- <a href="https://data.mendeley.com/datasets/dnskbdnmsz/1" target="_blank">ESG Ratings Dataset (Mendeley)</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Open-access dataset of ESG ratings compiled from multiple providers, available for download via Mendeley Data. Useful for research on ESG rating disagreement and provider comparison.
 - <a href="https://www.cdp.net/en/data/scores" target="_blank">CDP (Carbon Disclosure Project)</a> <span class="badge badge-global">Global</span> — Environmental disclosure data from 22,000+ companies (climate change, water security, deforestation). Annual disclosure cycle. Company scores and A-Lists are publicly available.
 
 ## Climate Targets & Transition
@@ -47,6 +46,10 @@
 
 - <a href="https://esgdata.worldbank.org/" target="_blank">World Bank Sovereign ESG Data Portal</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — 71+ ESG indicators across 217 economies spanning 60 years, covering all 17 Sustainable Development Goals across environment, social, and governance pillars. Includes interactive score builder, income adjustment tool, and peer comparisons. Bulk download available via the <a href="https://datacatalog.worldbank.org/search/dataset/0037651/Environment--Social-and-Governance-Data" target="_blank">Data Catalog</a>. CC BY 4.0 license.
 - <a href="https://www.ecgi.global/publications/codes" target="_blank">ECGI Corporate Governance Codes</a> <span class="badge badge-global">Global</span> — Free database of corporate governance codes, principles, and reforms from dozens of countries, maintained by the European Corporate Governance Institute. Documents downloadable as PDF. Includes monitoring reports and impact studies where available.
+
+## Green vs. Brown Returns
+
+- <a href="https://data.mendeley.com/datasets/dnskbdnmsz/1" target="_blank">Dissecting Green Returns — Replication Data</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-us">US</span> — Code and data needed to replicate the Green-Minus-Brown (GMB) factor and related results from <a href="https://www.sciencedirect.com/science/article/pii/S0304405X22001672" target="_blank">Pastor, Stambaugh & Taylor (2022, *Journal of Financial Economics*)</a>. The GMB factor captures the return spread between green and brown stocks and is widely used in empirical asset pricing research on ESG investing.
 
 ## Sustainability Frameworks & Impact
 
