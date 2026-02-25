@@ -7,7 +7,6 @@ Many top finance journals now require authors to deposit replication code and da
 | Journal | Collection |
 |---------|------------|
 | <a href="https://dataverse.harvard.edu/dataverse/jfqa" target="_blank">Journal of Financial and Quantitative Analysis (JFQA)</a> | Replication code and data for all empirical JFQA articles. Mandatory deposit since the journal adopted its code-sharing policy. |
-| <a href="https://dataverse.harvard.edu/dataverse/pf" target="_blank">PF Dataverse</a> | Replication packages hosted on Harvard Dataverse. |
 | <a href="https://dataverse.harvard.edu/dataverse/FMA" target="_blank">Financial Management (FMA)</a> | Replication code and data for articles published in *Financial Management*, the journal of the Financial Management Association International. |
 | <a href="https://dataverse.harvard.edu/dataverse/raps" target="_blank">Review of Asset Pricing Studies (RAPS)</a> | Replication code and data for all RAPS articles. Published by Oxford University Press on behalf of the Society for Financial Studies. |
 | <a href="https://dataverse.harvard.edu/dataverse/rcfs" target="_blank">Review of Corporate Finance Studies (RCFS)</a> | Replication code and data for all RCFS articles. Published by Oxford University Press on behalf of the Society for Financial Studies. |
