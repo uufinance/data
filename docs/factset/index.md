@@ -30,21 +30,6 @@ Download FactSet from <a href="https://www.factset.com/download" target="_blank"
 - Includes a very useful **Excel Plugin**
 - Not available for Apple (sorry)
 
-## What You Can Access
-
-FactSet provides a wide range of financial data and analytics:
-
-- **Company fundamentals** — financial statements, ratios, and estimates for public companies worldwide
-- **Equity and fixed income pricing** — historical and real-time price data across global markets
-- **Ownership data** — institutional and insider holdings, fund flows
-- **Industry classifications** — FactSet RBICS (Revere Business Industry Classification System) for sector and industry screening
-- **Screening and charting** — built-in tools for filtering companies by financial criteria and creating visualizations
-- **Excel plugin** — pull FactSet data directly into Excel spreadsheets using FactSet formulas and the sidebar
-
-## Learning How to Use FactSet
-
-Our colleague Jeroen Derwall has recorded a series of short clips on how to use FactSet: <a href="https://www.jeroenderwall.nl/clips" target="_blank">https://www.jeroenderwall.nl/clips</a>
-
 ### Important Notes
 
 - Even after receiving a confirmation email, FactSet might need some time to give full access rights (verification of the UU license).
