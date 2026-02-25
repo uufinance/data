@@ -24,7 +24,7 @@ This site is maintained by the <a href="https://www.uu.nl/en/organisation/utrech
 | Topic | Description |
 |-------|-------------|
 | [Company Information](other-sources/company-info/index.md) | SEC filings, annual reports, identifiers, and industry classification (Hoberg & Phillips) |
-| [News & Media](other-sources/news-media.md) | Nexis Uni, Structure of News, Google Trends |
+| [News & Media](other-sources/news-media/index.md) | Nexis Uni, Structure of News, Google Trends |
 | [Social Media](other-sources/social-media.md) | Twitter/X, Reddit, Meta, YouTube, GitHub data repositories |
 | [ESG, Climate & Sustainable Finance](other-sources/esg-climate.md) | ESG ratings, climate targets, emissions data, impact accounting |
 | [Asset Pricing](other-sources/asset-pricing.md) | Fama-French factors, replicated portfolios, bond factors, SEC market structure data |
@@ -33,5 +33,5 @@ This site is maintained by the <a href="https://www.uu.nl/en/organisation/utrech
 | [Survey Data](other-sources/survey-data.md) | Household and consumer surveys (NFCS, LISS, HFCS, SCF) |
 | [Sentiment & Culture](other-sources/sentiment-culture.md) | Investor sentiment, cultural dimensions, values surveys |
 | [Python Tools & Books](other-sources/python-tools.md) | Open-source Python packages and books for financial analysis |
-| [Researcher Data Pages](other-sources/researcher-data.md) | Individual researcher datasets (Goyal, Stambaugh, He, and others) |
+| [Data Collections](other-sources/researcher-data.md) | Comprehensive database lists and general-purpose data repositories |
 | [Journal Replication Packages](other-sources/replication-packages.md) | Harvard Dataverse collections for JFQA, RFS, RCFS, RAPS, FMA, and others |

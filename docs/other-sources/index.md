@@ -5,7 +5,7 @@ Free and open-access data sources for finance research, organized by topic.
 | Topic | Description |
 |-------|-------------|
 | [Company Information](company-info/index.md) | SEC filings, annual reports, identifiers, and industry classification (Hoberg & Phillips) |
-| [News & Media](news-media.md) | Nexis Uni, Structure of News, Google Trends |
+| [News & Media](news-media/index.md) | Nexis Uni, Structure of News, Google Trends |
 | [Social Media](social-media.md) | Twitter/X, Reddit, Meta, YouTube, GitHub data repositories |
 | [ESG, Climate & Sustainable Finance](esg-climate.md) | ESG ratings, climate targets, emissions data, impact accounting |
 | [Asset Pricing](asset-pricing.md) | Fama-French factors, replicated portfolios, bond factors, SEC market structure data |
@@ -15,5 +15,5 @@ Free and open-access data sources for finance research, organized by topic.
 | [Survey Data](survey-data.md) | Household and consumer surveys (NFCS, LISS, HFCS, SCF) |
 | [Sentiment & Culture](sentiment-culture.md) | Investor sentiment, cultural dimensions, values surveys |
 | [Python Tools & Books](python-tools.md) | Open-source Python packages and books for financial analysis |
-| [Researcher Data Pages](researcher-data.md) | Individual researcher datasets (Goyal, Stambaugh, He, and others) |
+| [Data Collections](researcher-data.md) | Comprehensive database lists and general-purpose data repositories |
 | [Journal Replication Packages](replication-packages.md) | Harvard Dataverse collections for JFQA, RFS, RCFS, RAPS, FMA, and others |

@@ -49,4 +49,4 @@ The <a href="https://www.sec.gov/data-research/sec-markets-data" target="_blank"
 - <a href="https://www.sec.gov/data-research/sec-markets-data/foia-logs" target="_blank">FOIA Logs</a> — Freedom of Information Act request log files published by the SEC's Office of FOIA Services.
 
 ---
-**See also**: [Company Information](company-info/index.md) for annual reports, identifiers, and industry classification | [News & Media](news-media.md) for Nexis Uni and news datasets | [WRDS](../wrds/index.md) for Compustat and other database access.
+**See also**: [Company Information](company-info/index.md) for annual reports, identifiers, and industry classification | [News & Media](news-media/index.md) for Nexis Uni and news datasets | [WRDS](../wrds/index.md) for Compustat and other database access.

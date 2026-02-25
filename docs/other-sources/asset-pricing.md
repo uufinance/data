@@ -19,5 +19,14 @@ The SEC provides free data on U.S. equity market microstructure through <a href=
 - <a href="https://www.sec.gov/data-research/sec-markets-data/marketstructuredata-hazards-survivors" target="_blank">Hazard, Survivor & Cumulative Distribution Data</a> — Hazard, survivor, and cumulative distribution functions for quote lifetimes across market cap groups, from microseconds to full trading days.
 - <a href="https://www.sec.gov/data-research/sec-markets-data/spreads-depth-individual-security" target="_blank">Spreads and Depth by Individual Security</a> — Bid-ask spreads and market depth data by individual security and date, useful for studying liquidity and transaction costs.
 
+## Researcher Datasets
+
+- <a href="https://sites.google.com/view/agoyal145" target="_blank">Amit Goyal</a> — Predictive variables for stock returns and bond returns, widely used in empirical asset pricing.
+- <a href="https://vilkov.net/codedata.html" target="_blank">Grigory Vilkov</a> — Datasets and code on option pricing, volatility, and risk management.
+- <a href="https://zhiguohe.net/data-and-empirical-patterns/intermediary-capital-ratio-and-risk-factor/" target="_blank">Zhiguo He</a> — Data on intermediary capital ratios and associated risk factors (He, Kelly & Manela).
+- <a href="https://finance.wharton.upenn.edu/~stambaug/" target="_blank">Robert Stambaugh</a> — Datasets on asset pricing, market efficiency, and liquidity.
+- <a href="https://bogousslavsky.github.io/data/" target="_blank">Vincent Bogousslavsky</a> — Datasets on intraday market microstructure and trading patterns.
+- <a href="https://www.global-business-networks.com/" target="_blank">Global Business Networks</a> <span class="badge badge-global">Global</span> <span class="badge badge-equities">Equities</span> — Time-varying business network data for 63,000+ global firms, constructed using AI-generated business descriptions from 10-K filings (EDGAR) and international reports (LSEG). Includes networks based on Sentence-T5-XXL and OpenAI embedding models, plus masked variants to mitigate look-ahead bias. Coverage: 2000–2021. By Breitung & Müller (2025, *Journal of Financial Economics*). (<a href="https://data.mendeley.com/datasets/gdwm3m9xjz/1" target="_blank">Replication Data</a>)
+
 ---
-**See also**: [Researcher Data Pages](researcher-data.md) for individual researcher datasets on asset pricing, market microstructure, and risk factors.
+**See also**: [Data Collections](researcher-data.md) for general-purpose data repositories | [Fama-French on WRDS](../wrds/databases/fama-french.md) for WRDS access to Fama-French data.
