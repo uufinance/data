@@ -84,7 +84,7 @@ nav:
           - Annual Reports: other-sources/annual-reports.md
           - Identifiers & Data Linking: other-sources/identifiers.md
       - News & Media:
-          - other-sources/news-media.md
+          - other-sources/news-media/index.md
           - Social Media: other-sources/social-media.md
       - ESG, Climate & Sustainable Finance: other-sources/esg-climate.md
       - Asset Pricing: other-sources/asset-pricing.md
@@ -98,5 +98,5 @@ nav:
       - Survey Data: other-sources/survey-data.md
       - Sentiment & Culture: other-sources/sentiment-culture.md
       - Python Tools & Books: other-sources/python-tools.md
-      - Researcher Data Pages: other-sources/researcher-data.md
+      - Data Collections: other-sources/researcher-data.md
       - Journal Replication Packages: other-sources/replication-packages.md

@@ -32,4 +32,4 @@ Repositories and platforms providing social media data for academic research. Ac
 - **GitHub**: The <a href="https://docs.github.com/en/rest" target="_blank">GitHub REST API</a> and <a href="https://docs.github.com/en/graphql" target="_blank">GraphQL API</a> provide access to repository metadata, commit histories, issues, pull requests, and developer activity. Useful for research on open-source ecosystems, software development practices, and knowledge diffusion.
 
 ---
-**See also**: [News & Media](news-media.md) for traditional news sources and Google Trends | [Sentiment & Culture](sentiment-culture.md) for text-based investor sentiment indices.
+**See also**: [News & Media](news-media/index.md) for traditional news sources and Google Trends | [Sentiment & Culture](sentiment-culture.md) for text-based investor sentiment indices.

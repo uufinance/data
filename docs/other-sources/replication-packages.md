@@ -16,4 +16,4 @@ Many top finance journals now require authors to deposit replication code and da
     Each dataset entry on Harvard Dataverse lists the associated paper, authors, and a README describing data sources, variable definitions, and how to run the replication code.
 
 ---
-**See also**: [Asset Pricing](asset-pricing.md) for pre-compiled factor data (JKP, Open Source Asset Pricing) | [Researcher Data Pages](researcher-data.md) for individual researcher datasets.
+**See also**: [Asset Pricing](asset-pricing.md) for pre-compiled factor data (JKP, Open Source Asset Pricing) | [Data Collections](researcher-data.md) for general-purpose data repositories.

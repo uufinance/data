@@ -22,4 +22,4 @@ The TNIC approach classifies firms into industries based on the similarity of th
 - Hoberg, G. and Phillips, G. (2016). Text-Based Network Industries and Endogenous Product Differentiation. *Journal of Political Economy*, 124(5), 1423–1465.
 
 ---
-**See also**: [Researcher Data Pages](../researcher-data.md) for individual researcher datasets | [WRDS](../../wrds/index.md) for Compustat and other company-level databases.
+**See also**: [Data Collections](../researcher-data.md) for general-purpose data repositories | [WRDS](../../wrds/index.md) for Compustat and other company-level databases.
