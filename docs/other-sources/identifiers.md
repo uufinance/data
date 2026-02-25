@@ -45,4 +45,4 @@ For U.S. securities, the ISIN is constructed from the CUSIP:
     - **Header vs. body CUSIPs** — some datasets use the 6-character issuer code (header CUSIP), others use the full 9-character security-level CUSIP. Make sure you're matching at the right level.
 
 ---
-**See also**: [Company Information, Filings & News](company-info-news.md) for SEC EDGAR data and CIK lookups | [WRDS](../wrds/index.md) for Compustat and other database access.
+**See also**: [Company Filings (SEC EDGAR)](company-info-news.md) for SEC EDGAR data and CIK lookups | [Company Information](company-info/index.md) for annual reports and industry classification | [WRDS](../wrds/index.md) for Compustat and other database access.

@@ -1,7 +1,4 @@
-# Company Information, Filings & News
-
-- <a href="https://databanken.library.uu.nl/nexis-uni" target="_blank">Nexis Uni</a> <span class="badge badge-global">Global</span> — Full text of articles from Dutch and international newspapers and news magazines. Also provides company information on Dutch and international businesses, and Market Insight. Accessible to UU students and staff via the Utrecht University Library.
-- <a href="https://structureofnews.com/" target="_blank">Structure of News</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Structured dataset mapping the topics, sources, and formats found in news journalism across countries and outlets. Designed for computational analysis of news content and media diversity. Useful for studying media framing, information dissemination, and coverage patterns in financial markets research.
+# Company Filings & Financial Data (SEC EDGAR)
 
 ## SEC EDGAR — Company Filings & Financial Data <span class="badge badge-api">API</span> <span class="badge badge-csv">CSV</span> <span class="badge badge-us">US</span>
 
@@ -50,3 +47,6 @@ The <a href="https://www.sec.gov/data-research/sec-markets-data" target="_blank"
 ## SEC — Other
 
 - <a href="https://www.sec.gov/data-research/sec-markets-data/foia-logs" target="_blank">FOIA Logs</a> — Freedom of Information Act request log files published by the SEC's Office of FOIA Services.
+
+---
+**See also**: [Company Information](company-info/index.md) for annual reports, identifiers, and industry classification | [News & Media](news-media.md) for Nexis Uni and news datasets | [WRDS](../wrds/index.md) for Compustat and other database access.
