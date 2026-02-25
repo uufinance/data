@@ -4,6 +4,7 @@ site_url: https://uufinance.github.io/data/
 theme:
   name: material
   logo: assets/images/Finance.png
+  favicon: assets/images/favicon.png
   font:
     text: Open Sans
     code: Roboto Mono
