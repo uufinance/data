@@ -18,12 +18,14 @@ a:hover {
 
 /* Navigation and content links */
 .md-content a,
-.md-nav a {
+.md-nav a,
+a.md-nav__link {
   color: #C00A35;
 }
 
 .md-content a:hover,
-.md-nav a:hover {
+.md-nav a:hover,
+a.md-nav__link:hover {
   color: #900828;
 }
 
