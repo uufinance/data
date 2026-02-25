@@ -1,8 +1,9 @@
-<img src="assets/images/Finance.png" alt="Finance" style="height: 72px; margin-bottom: 0.5rem;">
+<div style="display: flex; align-items: center; gap: 1.25rem; margin-bottom: 1rem;">
+  <img src="assets/images/Finance.png" alt="Finance" style="height: 72px; flex-shrink: 0;">
+  <h1 style="margin: 0;">U.S.E. Finance Data Hub</h1>
+</div>
 
-Welcome to the *<a href="https://www.uu.nl/en/organisation/utrecht-university-school-of-economics-use/research/research/finance" target="_blank">Finance</a>* Data GitHub of
-# Utrecht University School of Economics
-This site is maintained by the Finance section of USE and is primarily intended for **UU students and researchers**. It provides documentation and manuals for accessing and working with financial data.
+This site is maintained by the <a href="https://www.uu.nl/en/organisation/utrecht-university-school-of-economics-use/research/research/finance" target="_blank">Finance section</a> of <a href="https://www.uu.nl/en/organisation/utrecht-university-school-of-economics-use" target="_blank">Utrecht University School of Economics (U.S.E.)</a> and is primarily intended for **UU students and researchers**. It provides documentation and manuals for accessing and working with financial data.
 
 **UU students and staff:** if you need help with data access or have questions about available resources, contact **[financedata.use@uu.nl](mailto:financedata.use@uu.nl)**
 
