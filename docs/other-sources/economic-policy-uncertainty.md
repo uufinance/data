@@ -88,7 +88,7 @@ Newspaper-based trackers of equity market volatility that move closely with the 
 | <a href="https://www.policyuncertainty.com/infectious_EMV.html" target="_blank">Infectious Disease EMV</a> | United States | Daily | 1985–present |
 | 40+ categorical EMV trackers | United States | Monthly | 1985–present |
 
-**Key reference**: Baker, S.R., Bloom, N., Davis, S.J. and Kost, K. (2019). Policy News and Stock Market Volatility. NBER Working Paper 25720.
+**Key reference**: Baker, S.R., Bloom, N., Davis, S.J. and Kost, K. (2026). <a href="https://www.sciencedirect.com/science/article/pii/S0304405X25001953" target="_blank">Policy News and Stock Market Volatility</a>. *Journal of Financial Economics*, 175, 104187.
 
 ---
 
