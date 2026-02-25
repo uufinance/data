@@ -7,7 +7,7 @@ This site is maintained by the <a href="https://www.uu.nl/en/organisation/utrech
 
 **UU students and staff:** if you need help with data access or have questions about available resources, contact **[financedata.use@uu.nl](mailto:financedata.use@uu.nl)**
 
-Follow us on <a href="https://www.linkedin.com/company/finance-utrecht/" target="_blank">LinkedIn</a>.
+<a href="https://www.linkedin.com/company/finance-utrecht/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:32px; height:32px; background:#000; border-radius:6px; text-decoration:none; color:#fff; font-weight:700; font-size:15px; font-family:sans-serif;">in</a>
 
 ---
 
