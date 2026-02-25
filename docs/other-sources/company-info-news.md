@@ -1,6 +1,6 @@
 # Company Information, Filings & News
 
-- <a href="https://www.nexisuni.com/" target="_blank">Nexis Uni</a> <span class="badge badge-global">Global</span> — Full text of articles from Dutch and international newspapers and news magazines. Also provides company information on Dutch and international businesses, and Market Insight.
+- <a href="https://databanken.library.uu.nl/nexis-uni" target="_blank">Nexis Uni</a> <span class="badge badge-global">Global</span> — Full text of articles from Dutch and international newspapers and news magazines. Also provides company information on Dutch and international businesses, and Market Insight. Accessible to UU students and staff via the Utrecht University Library.
 - <a href="https://structureofnews.com/" target="_blank">Structure of News</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Structured dataset mapping the topics, sources, and formats found in news journalism across countries and outlets. Designed for computational analysis of news content and media diversity. Useful for studying media framing, information dissemination, and coverage patterns in financial markets research.
 
 ## SEC EDGAR — Company Filings & Financial Data <span class="badge badge-api">API</span> <span class="badge badge-csv">CSV</span> <span class="badge badge-us">US</span>
