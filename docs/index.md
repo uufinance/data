@@ -2,9 +2,9 @@
 
 Welcome to the *<a href="https://www.uu.nl/en/organisation/utrecht-university-school-of-economics-use/research/research/finance" target="_blank">Finance</a>* Data GitHub of
 # Utrecht University School of Economics
-On this website you can find manuals to download and process your data.
+This site is maintained by the Finance section of USE and is primarily intended for **UU students and researchers**. It provides documentation and manuals for accessing and working with financial data.
 
-Need help with data access? Contact **[financedata.use@uu.nl](mailto:financedata.use@uu.nl)**
+**UU students and staff:** if you need help with data access or have questions about available resources, contact **[financedata.use@uu.nl](mailto:financedata.use@uu.nl)**
 
 Follow us on <a href="https://www.linkedin.com/company/finance-utrecht/" target="_blank">LinkedIn</a>.
 

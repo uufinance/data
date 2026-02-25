@@ -27,8 +27,8 @@ Repositories and platforms providing social media data for academic research. Ac
 
 ## Other Platforms
 
-- **LinkedIn**: No public research API. Academic data partnerships are handled case-by-case via [LinkedIn's Research Program](https://www.linkedin.com/help/linkedin/answer/a1341705).
-- **YouTube**: The <a href="https://developers.google.com/youtube/v3" target="_blank">YouTube Data API v3</a> provides access to video metadata, comments, captions, and channel statistics. Free with a Google API key (subject to quota). Transcripts/captions can be retrieved programmatically and used for text analysis.
+- **LinkedIn**: No public research API. Academic data partnerships are handled case-by-case via [LinkedIn's Research Program](https://www.linkedin.com/help/linkedin/answer/a1645616).
+- **YouTube**: The <a href="https://developers.google.com/youtube/v3" target="_blank">YouTube Data API v3</a> provides access to video metadata, comments, captions, and channel statistics. Free with a Google API key (subject to quota). Transcripts/captions can be retrieved programmatically and used for text analysis. Official code samples are available on <a href="https://github.com/youtube/api-samples" target="_blank">GitHub (youtube/api-samples)</a>.
 - **GitHub**: The <a href="https://docs.github.com/en/rest" target="_blank">GitHub REST API</a> and <a href="https://docs.github.com/en/graphql" target="_blank">GraphQL API</a> provide access to repository metadata, commit histories, issues, pull requests, and developer activity. Useful for research on open-source ecosystems, software development practices, and knowledge diffusion.
 
 ---
