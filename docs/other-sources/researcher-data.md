@@ -1,6 +1,7 @@
 # Researcher Data Pages
 
 - <a href="https://sites.google.com/view/agoyal145" target="_blank">Amit Goyal</a> — Predictive variables for stock returns and bond returns, widely used in empirical asset pricing.
+- <a href="https://www.tonycookson.com/data-and-programs" target="_blank">J. Anthony Cookson</a> — Social media-based investor sentiment and disagreement data from StockTwits, Twitter, and Seeking Alpha. Includes daily firm-level disagreement measures (2010–2021), echo chambers data (2013–2020), and partisan investor beliefs (2017–2020).
 - <a href="https://www.bramvanderkroft.com/data" target="_blank">Bram van der Kroft</a> — Datasets on sustainable renovations and firm-level sustainable aspirations and performance.
 - <a href="https://vilkov.net/codedata.html" target="_blank">Grigory Vilkov</a> — Datasets and code on option pricing, volatility, and risk management.
 - <a href="https://zhiguohe.net/data-and-empirical-patterns/intermediary-capital-ratio-and-risk-factor/" target="_blank">Zhiguo He</a> — Data on intermediary capital ratios and associated risk factors (He, Kelly & Manela).
