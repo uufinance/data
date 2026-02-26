@@ -48,5 +48,9 @@ The <a href="https://www.sec.gov/data-research/sec-markets-data" target="_blank"
 
 - <a href="https://www.sec.gov/data-research/sec-markets-data/foia-logs" target="_blank">FOIA Logs</a> — Freedom of Information Act request log files published by the SEC's Office of FOIA Services.
 
+## Firm Networks & Text-Based Data
+
+- <a href="https://www.global-business-networks.com/" target="_blank">Global Business Networks</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Time-varying business network data for 63,000+ global firms, constructed using AI-generated business descriptions from 10-K filings (EDGAR) and international reports (LSEG). Includes networks based on Sentence-T5-XXL and OpenAI embedding models, plus masked variants to mitigate look-ahead bias. Coverage: 2000–2021. By Breitung & Müller (2025, *Journal of Financial Economics*). (<a href="https://data.mendeley.com/datasets/gdwm3m9xjz/1" target="_blank">Replication Data</a>)
+
 ---
 **See also**: [Company Information](company-info/index.md) for annual reports, identifiers, and industry classification | [News & Media](news-media/index.md) for Nexis Uni and news datasets | [WRDS](../wrds/index.md) for Compustat and other database access.
