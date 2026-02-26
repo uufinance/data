@@ -1,4 +1,4 @@
-# ESG, Climate & Sustainable Finance
+# ESG, Climate & Sustainable Finance — Firm-Level Data
 
 !!! tip
     S&P Global offers free ESG score lookups for individual companies. CDP scores and A-Lists are free; full company-level disclosure data requires a paid license.
@@ -42,11 +42,6 @@
 - <a href="https://ec.europa.eu/clima/ets/" target="_blank">EU Transaction Log (EUTL)</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Official registry of the EU Emissions Trading System maintained by the European Commission. Provides company-level verified emissions, allowance allocations, and annual surrender data for all EU ETS participants. Useful for firm-level research on emissions, abatement, and carbon regulation. Data downloadable via the <a href="https://www.eea.europa.eu/data-and-maps/data/european-union-emissions-trading-scheme-9" target="_blank">European Environment Agency</a>.
 - <a href="https://www.ngfs.net/ngfs-scenarios-portal/data-resources/" target="_blank">NGFS Climate Scenarios</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Climate scenario data from the Network for Greening the Financial System, used by central banks and supervisors worldwide. Downloadable as CSV/XLSX via the <a href="https://data.ene.iiasa.ac.at/ngfs/" target="_blank">IIASA Scenario Explorer</a> (guest login, free). Covers transition risk, physical risk, and macro-economic variables. Also accessible via the <a href="https://climatedata.imf.org/pages/ngfs" target="_blank">IMF Climate Data Portal</a>.
 
-## Sovereign ESG & Governance
-
-- <a href="https://esgdata.worldbank.org/" target="_blank">World Bank Sovereign ESG Data Portal</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — 71+ ESG indicators across 217 economies spanning 60 years, covering all 17 Sustainable Development Goals across environment, social, and governance pillars. Includes interactive score builder, income adjustment tool, and peer comparisons. Bulk download available via the <a href="https://datacatalog.worldbank.org/search/dataset/0037651/Environment--Social-and-Governance-Data" target="_blank">Data Catalog</a>. CC BY 4.0 license.
-- <a href="https://www.ecgi.global/publications/codes" target="_blank">ECGI Corporate Governance Codes</a> <span class="badge badge-global">Global</span> — Free database of corporate governance codes, principles, and reforms from dozens of countries, maintained by the European Corporate Governance Institute. Documents downloadable as PDF. Includes monitoring reports and impact studies where available.
-
 ## Green vs. Brown Returns
 
 - <a href="https://data.mendeley.com/datasets/dnskbdnmsz/1" target="_blank">Dissecting Green Returns — Replication Data</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-us">US</span> — Code and data needed to replicate the Green-Minus-Brown (GMB) factor and related results from <a href="https://www.sciencedirect.com/science/article/pii/S0304405X22001672" target="_blank">Pastor, Stambaugh & Taylor (2022, *Journal of Financial Economics*)</a>. The GMB factor captures the return spread between green and brown stocks and is widely used in empirical asset pricing research on ESG investing.
@@ -58,4 +53,4 @@
 - <a href="https://www.bramvanderkroft.com/data" target="_blank">Bram van der Kroft</a> — Datasets on sustainable renovations and firm-level sustainable aspirations and performance.
 
 ---
-**See also**: [Macroeconomic & Country-Level Data](macro-country-data.md) for sovereign-level indicators | [Sentiment & Culture](sentiment-culture.md) for text-based measures related to climate news | [Data Collections](researcher-data.md) for general-purpose data repositories.
+**See also**: [Country-Level ESG Data](esg-country.md) for sovereign ESG indicators, climate adaptation indices, and governance codes | [Macroeconomic & Country-Level Data](macro-country-data.md) for broader sovereign-level indicators | [Sentiment & Culture](sentiment-culture.md) for text-based measures related to climate news | [Data Collections](researcher-data.md) for general-purpose data repositories.

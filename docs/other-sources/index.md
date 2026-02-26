@@ -5,12 +5,10 @@ Free and open-access data sources for finance research, organized by topic.
 | Topic | Description |
 |-------|-------------|
 | [Company Information](company-info/index.md) | SEC filings, annual reports, identifiers, and industry classification (Hoberg & Phillips) |
-| [News & Media](news-media/index.md) | Nexis Uni, Structure of News, Google Trends |
+| [News & Media](news-media/index.md) | Nexis Uni, Structure of News, Google Trends, Wikipedia page views |
 | [Social Media](social-media.md) | Twitter/X, Reddit, Meta, YouTube, GitHub data repositories |
-| [ESG, Climate & Sustainable Finance](esg-climate.md) | ESG ratings, climate targets, emissions data, impact accounting |
-| [Asset Pricing](asset-pricing.md) | Fama-French factors, replicated portfolios, bond factors, SEC market structure data |
-| [Commodities & Futures Data](commodities-futures.md) | CFTC Commitment of Traders reports, futures market positioning data, ENTSO-E electricity data, with free API access |
-| [Cryptocurrency & Digital Asset Data](cryptocurrency.md) | Free APIs and datasets for cryptocurrency prices, on-chain metrics, and exchange data (CoinGecko, CCXT, Binance) |
+| [ESG, Climate & Sustainable Finance](esg/index.md) | Firm-level ESG ratings, climate targets, emissions data; country-level sovereign ESG, climate adaptation (ND-GAIN) |
+| [Asset Classes](assets/index.md) | Equities & asset pricing, bonds, commodities & futures, cryptocurrency |
 | [Economic & Macroeconomic Data](economic/index.md) | FRED, IMF, OECD, BIS, World Bank, country-level data, policy uncertainty indices |
 | [Survey Data](survey-data.md) | Household and consumer surveys (NFCS, LISS, HFCS, SCF) |
 | [Sentiment & Culture](sentiment-culture.md) | Investor sentiment, cultural dimensions, values surveys |
