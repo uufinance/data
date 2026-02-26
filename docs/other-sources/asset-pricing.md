@@ -9,7 +9,6 @@
 
 The SEC provides free data on U.S. equity market microstructure through <a href="https://www.sec.gov/securities-topics/market-structure-analytics/midas-market-information-data-analytics-system" target="_blank">MIDAS (Market Information Data Analytics System)</a> and the <a href="https://www.sec.gov/data-research/sec-markets-data" target="_blank">SEC Data Library</a>. These datasets are valuable for research on market microstructure, institutional ownership, and trading frictions.
 
-- <a href="https://www.sec.gov/data-research/sec-markets-data/form-13f-data-sets" target="_blank">Form 13F Data Sets</a> — Quarterly institutional investor holdings for investment managers with $100M+ in Section 13(f) securities. Key dataset for studying institutional ownership, herding, and portfolio rebalancing. See also [Company Information, Filings & News](company-info-news.md).
 - <a href="https://www.sec.gov/data-research/sec-markets-data/fails-deliver-data" target="_blank">Fails-to-Deliver Data</a> — Twice-monthly settlement failure data for all equity securities, including date, CUSIP, ticker, issuer name, price, and total fails outstanding. Useful for short selling and settlement risk research.
 - <a href="https://www.sec.gov/data-research/market-structure-data" target="_blank">Market Structure Data Downloads</a> — Overview page for all SEC equity market structure datasets derived from MIDAS. Includes interactive visualization tools and downloadable data files.
 - <a href="https://www.sec.gov/data-research/sec-markets-data/marketstructuredata-security" target="_blank">Metrics by Individual Security</a> — Market microstructure metrics for 4,800+ individual equity securities, including cancel-to-trade ratios, hidden order rates, and odd-lot statistics.
@@ -27,4 +26,4 @@ The SEC provides free data on U.S. equity market microstructure through <a href=
 - <a href="https://bogousslavsky.github.io/data/" target="_blank">Vincent Bogousslavsky</a> — Datasets on intraday market microstructure and trading patterns.
 
 ---
-**See also**: [Bonds & Fixed Income](bonds.md) for corporate bond factor data | [Data Collections](researcher-data.md) for general-purpose data repositories | [Fama-French on WRDS](../wrds/databases/fama-french.md) for WRDS access to Fama-French data.
+**See also**: [Bonds & Fixed Income](bonds.md) for corporate bond factor data | [Company Filings (SEC EDGAR)](company-info/filings.md) for institutional holdings data (Form 13F) | [Data Collections](researcher-data.md) for general-purpose data repositories | [Fama-French on WRDS](../wrds/databases/fama-french.md) for WRDS access to Fama-French data.

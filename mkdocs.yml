@@ -80,7 +80,7 @@ nav:
       - other-sources/index.md
       - Company Information:
           - other-sources/company-info/index.md
-          - Company Filings (SEC EDGAR): other-sources/company-info-news.md
+          - Company Filings (SEC EDGAR): other-sources/company-info/filings.md
           - Annual Reports: other-sources/annual-reports.md
           - Identifiers & Data Linking: other-sources/identifiers.md
       - News & Media:
@@ -89,8 +89,8 @@ nav:
           - Social Media: other-sources/social-media.md
       - ESG, Climate & Sustainable Finance:
           - other-sources/esg/index.md
-          - Firm-Level Data: other-sources/esg-climate.md
-          - Country-Level Data: other-sources/esg-country.md
+          - Firm-Level Data: other-sources/esg/firm-level.md
+          - Country-Level Data: other-sources/esg/country-level.md
       - Asset Classes:
           - other-sources/assets/index.md
           - Equities & Asset Pricing: other-sources/asset-pricing.md

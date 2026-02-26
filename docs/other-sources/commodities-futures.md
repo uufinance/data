@@ -90,3 +90,6 @@ The <a href="https://transparency.entsoe.eu/" target="_blank">ENTSO-E Transparen
 ```bash
 pip install entsoe-py
 ```
+
+---
+**See also**: [Asset Classes](assets/index.md) for an overview of all asset class data | [Economic & Macroeconomic Data](economic/index.md) for macro drivers of commodity markets | [Python Tools & Books](python-tools.md) for general financial data packages.
