@@ -87,10 +87,16 @@ nav:
           - other-sources/news-media/index.md
           - News: other-sources/news-media/news.md
           - Social Media: other-sources/social-media.md
-      - ESG, Climate & Sustainable Finance: other-sources/esg-climate.md
-      - Asset Pricing: other-sources/asset-pricing.md
-      - Commodities & Futures Data: other-sources/commodities-futures.md
-      - Cryptocurrency & Digital Asset Data: other-sources/cryptocurrency.md
+      - ESG, Climate & Sustainable Finance:
+          - other-sources/esg/index.md
+          - Firm-Level Data: other-sources/esg-climate.md
+          - Country-Level Data: other-sources/esg-country.md
+      - Asset Classes:
+          - other-sources/assets/index.md
+          - Equities & Asset Pricing: other-sources/asset-pricing.md
+          - Bonds & Fixed Income: other-sources/bonds.md
+          - Commodities & Futures: other-sources/commodities-futures.md
+          - Cryptocurrency: other-sources/cryptocurrency.md
       - Economic & Macroeconomic Data:
           - other-sources/economic/index.md
           - Time Series & APIs: other-sources/economic-data.md
