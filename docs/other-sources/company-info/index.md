@@ -4,7 +4,7 @@ Resources for identifying companies, accessing regulatory filings and financial 
 
 | Topic | Description |
 |-------|-------------|
-| [Company Filings (SEC EDGAR)](../company-info-news.md) | SEC financial statements, filings, insider transactions, fund holdings |
+| [Company Filings (SEC EDGAR)](filings.md) | SEC financial statements, filings, insider transactions, fund holdings |
 | [Annual Reports](../annual-reports.md) | PDF annual reports for large global companies |
 | [Identifiers & Data Linking](../identifiers.md) | CIK, GVKEY, CUSIP, ISIN — how to link datasets across sources |
 

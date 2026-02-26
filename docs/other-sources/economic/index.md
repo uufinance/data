@@ -9,4 +9,4 @@ Time series databases, country-level indicators, and text-based uncertainty indi
 | [Policy Uncertainty](../economic-policy-uncertainty.md) | EPU, GPR, WUI, and 50+ text-based uncertainty indices (Baker, Bloom & Davis) |
 
 ---
-**See also**: [Sentiment & Culture](../sentiment-culture.md) for investor sentiment surveys and cultural dimensions | [ESG, Climate & Sustainable Finance](../esg-climate.md) for climate scenarios and emissions data | [Survey Data](../survey-data.md) for household and consumer surveys.
+**See also**: [Sentiment & Culture](../sentiment-culture.md) for investor sentiment surveys and cultural dimensions | [ESG, Climate & Sustainable Finance](../esg/index.md) for climate scenarios and emissions data | [Survey Data](../survey-data.md) for household and consumer surveys.

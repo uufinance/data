@@ -53,4 +53,4 @@
 - <a href="https://www.bramvanderkroft.com/data" target="_blank">Bram van der Kroft</a> — Datasets on sustainable renovations and firm-level sustainable aspirations and performance.
 
 ---
-**See also**: [Country-Level ESG Data](esg-country.md) for sovereign ESG indicators, climate adaptation indices, and governance codes | [Macroeconomic & Country-Level Data](macro-country-data.md) for broader sovereign-level indicators | [Sentiment & Culture](sentiment-culture.md) for text-based measures related to climate news | [Data Collections](researcher-data.md) for general-purpose data repositories.
+**See also**: [Country-Level ESG Data](country-level.md) for sovereign ESG indicators, climate adaptation indices, and governance codes | [Macroeconomic & Country-Level Data](../macro-country-data.md) for broader sovereign-level indicators | [Sentiment & Culture](../sentiment-culture.md) for text-based measures related to climate news | [Data Collections](../researcher-data.md) for general-purpose data repositories.

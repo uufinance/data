@@ -27,7 +27,7 @@ The <a href="https://www.sec.gov/data-research/sec-markets-data" target="_blank"
 
 ## SEC EDGAR — Investment Companies & Funds
 
-- <a href="https://www.sec.gov/data-research/sec-markets-data/form-13f-data-sets" target="_blank">Form 13F Data Sets</a> — Quarterly institutional investor holdings for investment managers with $100M+ in Section 13(f) securities. Covers which institutions hold which stocks. Updated quarterly. See also [Asset Pricing](asset-pricing.md).
+- <a href="https://www.sec.gov/data-research/sec-markets-data/form-13f-data-sets" target="_blank">Form 13F Data Sets</a> — Quarterly institutional investor holdings for investment managers with $100M+ in Section 13(f) securities. Covers which institutions hold which stocks. Updated quarterly. See also [Asset Pricing](../asset-pricing.md).
 - <a href="https://www.sec.gov/data-research/sec-markets-data/bdc-data-sets" target="_blank">Business Development Company (BDC) Data Sets</a> — Schedule of investments, detailed financial data, and summary non-financial data from BDC XBRL filings.
 - <a href="https://www.sec.gov/data-research/sec-markets-data/variable-insurance-product-data-sets" target="_blank">Variable Insurance Product Data Sets</a> — Text and numeric data from variable annuity contract registration forms (Forms N-3, N-4, N-6) filed in XBRL. Updated monthly.
 - <a href="https://www.sec.gov/data-research/sec-markets-data/form-n-port-data-sets" target="_blank">Form N-PORT Data Sets</a> — Monthly portfolio holdings data for registered investment companies, covering securities positions, risk metrics, and flow information.
@@ -53,4 +53,4 @@ The <a href="https://www.sec.gov/data-research/sec-markets-data" target="_blank"
 - <a href="https://www.global-business-networks.com/" target="_blank">Global Business Networks</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Time-varying business network data for 63,000+ global firms, constructed using AI-generated business descriptions from 10-K filings (EDGAR) and international reports (LSEG). Includes networks based on Sentence-T5-XXL and OpenAI embedding models, plus masked variants to mitigate look-ahead bias. Coverage: 2000–2021. By Breitung & Müller (2025, *Journal of Financial Economics*). (<a href="https://data.mendeley.com/datasets/gdwm3m9xjz/1" target="_blank">Replication Data</a>)
 
 ---
-**See also**: [Company Information](company-info/index.md) for annual reports, identifiers, and industry classification | [News & Media](news-media/index.md) for Nexis Uni and news datasets | [WRDS](../wrds/index.md) for Compustat and other database access.
+**See also**: [Company Information](index.md) for annual reports, identifiers, and industry classification | [News & Media](../news-media/index.md) for Nexis Uni and news datasets | [WRDS](../../wrds/index.md) for Compustat and other database access.

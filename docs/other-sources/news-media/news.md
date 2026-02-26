@@ -12,4 +12,4 @@ pip install pageviewsapi
 ```
 
 ---
-**See also**: [Social Media](../social-media.md) for platform data (Twitter/X, Reddit, Meta) | [Sentiment & Culture](../sentiment-culture.md) for text-based sentiment indices | [Company Filings (SEC EDGAR)](../company-info-news.md) for EDGAR full-text search.
+**See also**: [Social Media](../social-media.md) for platform data (Twitter/X, Reddit, Meta) | [Sentiment & Culture](../sentiment-culture.md) for text-based sentiment indices | [Company Filings (SEC EDGAR)](../company-info/filings.md) for EDGAR full-text search.

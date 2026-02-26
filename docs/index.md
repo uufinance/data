@@ -24,11 +24,10 @@ This site is maintained by the <a href="https://www.uu.nl/en/organisation/utrech
 | Topic | Description |
 |-------|-------------|
 | [Company Information](other-sources/company-info/index.md) | SEC filings, annual reports, identifiers, and industry classification (Hoberg & Phillips) |
-| [News & Media](other-sources/news-media/index.md) | Nexis Uni, Structure of News, Google Trends |
+| [News & Media](other-sources/news-media/index.md) | Nexis Uni, Structure of News, Google Trends, Wikipedia page views |
 | [Social Media](other-sources/social-media.md) | Twitter/X, Reddit, Meta, YouTube, GitHub data repositories |
-| [ESG, Climate & Sustainable Finance](other-sources/esg-climate.md) | ESG ratings, climate targets, emissions data, impact accounting |
-| [Asset Pricing](other-sources/asset-pricing.md) | Fama-French factors, replicated portfolios, bond factors, SEC market structure data |
-| [Commodities & Futures Data](other-sources/commodities-futures.md) | CFTC Commitment of Traders reports, futures market positioning data, with free API access |
+| [ESG, Climate & Sustainable Finance](other-sources/esg/index.md) | Firm-level ESG ratings, climate targets, emissions data; country-level sovereign ESG and climate adaptation |
+| [Asset Classes](other-sources/assets/index.md) | Equities & asset pricing, bonds & fixed income, commodities & futures, cryptocurrency |
 | [Economic & Macroeconomic Data](other-sources/economic/index.md) | FRED, IMF, OECD, BIS, World Bank, country-level data, policy uncertainty indices |
 | [Survey Data](other-sources/survey-data.md) | Household and consumer surveys (NFCS, LISS, HFCS, SCF) |
 | [Sentiment & Culture](other-sources/sentiment-culture.md) | Investor sentiment, cultural dimensions, values surveys |

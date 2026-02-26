@@ -29,4 +29,4 @@ pip install ccxt
 - <a href="https://www.blockchain.com/explorer/api/blockchain_api" target="_blank">Blockchain.com API</a> <span class="badge badge-api">API</span> <span class="badge badge-global">Global</span> <span class="badge badge-crypto">Crypto</span> — Free API for Bitcoin blockchain data including transaction details, block data, address balances, and aggregate market statistics (hash rate, difficulty, mempool). No API key required for basic endpoints.
 
 ---
-**See also**: [Python Tools & Books](python-tools.md) for yfinance (covers crypto via Yahoo Finance) and Alpha Vantage (covers crypto market data).
+**See also**: [Asset Classes](assets/index.md) for an overview of all asset class data | [Python Tools & Books](python-tools.md) for yfinance (covers crypto via Yahoo Finance) and Alpha Vantage (covers crypto market data).
