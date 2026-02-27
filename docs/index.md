@@ -32,5 +32,5 @@ This site is maintained by the <a href="https://www.uu.nl/en/organisation/utrech
 | [Survey Data](other-sources/survey-data.md) | Household and consumer surveys (NFCS, LISS, HFCS, SCF) |
 | [Sentiment & Culture](other-sources/sentiment-culture.md) | Investor sentiment, cultural dimensions, values surveys |
 | [Python Tools & Books](other-sources/python-tools.md) | Open-source Python packages and books for financial analysis |
-| [Data Collections](other-sources/researcher-data.md) | Comprehensive database lists and general-purpose data repositories |
+| [Data Collections](other-sources/researcher-data.md) | Curated data collection directories: Mark Dijkstra's finance database list, Our World in Data, and Kaggle |
 | [Journal Replication Packages](other-sources/replication-packages.md) | Harvard Dataverse collections for JFQA, RFS, RCFS, RAPS, FMA, and others |
