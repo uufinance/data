@@ -46,8 +46,9 @@ The <a href="https://www.sec.gov/data-research/sec-markets-data" target="_blank"
 
 ## SEC — Other
 
-- <a href="https://www.sec.gov/data-research/sec-markets-data/foia-logs" target="_blank">FOIA Logs</a> — Freedom of Information Act request log files published by the SEC's Office of FOIA Services.
-
+- <a href="https://www.sec.gov/foia-services/frequently-requested-documents/foia-logs" target="_blank">FOIA Logs</a> — Freedom of Information Act request log files published by the SEC's Office of FOIA Services. Contains details on all FOIA requests submitted to the SEC since 2006, including requester type and subject.
+  See <a href="https://doi.org/10.2308/TAR-2021-0146" target="_blank">Glaeser, Schonberger, Wasley, and Xiao (2023, <i>The Accounting Review</i>)</a> for an application studying private information acquisition via SEC FOIA requests.
+  
 ## Python Tools for EDGAR
 
 - <a href="https://github.com/john-friedman/datamule-python" target="_blank">datamule</a> <span class="badge badge-python">Python</span> <span class="badge badge-us">US</span> — Python package for downloading and processing SEC filings at scale. Supports batch downloads of any submission type (10-K, 10-Q, 8-K, Form 4, and more) by ticker or CIK. Free open-source core; optional cloud backend for faster bulk access without rate limits. By John Friedman. (<a href="https://pypi.org/project/datamule/" target="_blank">PyPI</a>)
