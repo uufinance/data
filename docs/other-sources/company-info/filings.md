@@ -48,6 +48,20 @@ The <a href="https://www.sec.gov/data-research/sec-markets-data" target="_blank"
 
 - <a href="https://www.sec.gov/data-research/sec-markets-data/foia-logs" target="_blank">FOIA Logs</a> — Freedom of Information Act request log files published by the SEC's Office of FOIA Services.
 
+## Python Tools for EDGAR
+
+- <a href="https://github.com/john-friedman/datamule-python" target="_blank">datamule</a> <span class="badge badge-python">Python</span> <span class="badge badge-us">US</span> — Python package for downloading and processing SEC filings at scale. Supports batch downloads of any submission type (10-K, 10-Q, 8-K, Form 4, and more) by ticker or CIK. Free open-source core; optional cloud backend for faster bulk access without rate limits. By John Friedman. (<a href="https://pypi.org/project/datamule/" target="_blank">PyPI</a>)
+
+```bash
+pip install datamule
+```
+
+- <a href="https://github.com/jadchaar/sec-edgar-downloader" target="_blank">sec-edgar-downloader</a> <span class="badge badge-python">Python</span> <span class="badge badge-us">US</span> — Python library for bulk downloading SEC filings from EDGAR by ticker or CIK. Supports all filing types (10-K, 10-Q, 8-K, etc.) and saves filings to a structured local directory. (<a href="https://pypi.org/project/sec-edgar-downloader/" target="_blank">PyPI</a>)
+
+```bash
+pip install sec-edgar-downloader
+```
+
 ## Firm Networks & Text-Based Data
 
 - <a href="https://www.global-business-networks.com/" target="_blank">Global Business Networks</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Time-varying business network data for 63,000+ global firms, constructed using AI-generated business descriptions from 10-K filings (EDGAR) and international reports (LSEG). Includes networks based on Sentence-T5-XXL and OpenAI embedding models, plus masked variants to mitigate look-ahead bias. Coverage: 2000–2021. By Breitung & Müller (2025, *Journal of Financial Economics*). (<a href="https://data.mendeley.com/datasets/gdwm3m9xjz/1" target="_blank">Replication Data</a>)

@@ -11,5 +11,7 @@ Data sources for news content, media coverage, and online search trends. For soc
 pip install pageviewsapi
 ```
 
+- <a href="https://www.gdeltproject.org/" target="_blank">GDELT (Global Database of Events, Language, and Tone)</a> <span class="badge badge-api">API</span> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Massive open dataset monitoring world news from 100+ languages, updated every 15 minutes. Covers events (who did what to whom, when, and where), themes, organizations, sentiment/tone, and source URLs. Raw data files downloadable from the <a href="https://www.gdeltproject.org/data.html" target="_blank">GDELT Data page</a> or queryable via <a href="https://cloud.google.com/bigquery/public-data#gdelt" target="_blank">Google BigQuery</a> (free tier). Also accessible via the <a href="https://blog.gdeltproject.org/gdelt-doc-2-0-api-debuts/" target="_blank">GDELT DOC 2.0 API</a>. Widely used in event studies, media sentiment analysis, and geopolitical risk research.
+
 ---
 **See also**: [Social Media](../social-media.md) for platform data (Twitter/X, Reddit, Meta) | [Sentiment & Culture](../sentiment-culture.md) for text-based sentiment indices | [Company Filings (SEC EDGAR)](../company-info/filings.md) for EDGAR full-text search.

@@ -28,6 +28,40 @@ pip install yfinance
 pip install alpha-vantage
 ```
 
+## Data Access
+
+- <a href="https://pypi.org/project/pandas-datareader/" target="_blank">pandas-datareader</a> <span class="badge badge-python">Python</span> <span class="badge badge-global">Global</span> — Standard library for downloading economic and financial data into pandas DataFrames. Connects to FRED, World Bank, OECD, Eurostat, Yahoo Finance, and more. (<a href="https://github.com/pydata/pandas-datareader" target="_blank">GitHub</a>)
+
+```bash
+pip install pandas-datareader
+```
+
+- <a href="https://pypi.org/project/fredapi/" target="_blank">fredapi</a> <span class="badge badge-python">Python</span> <span class="badge badge-us">US</span> — Official Python wrapper for the FRED API, providing access to 800,000+ economic time series from the Federal Reserve Bank of St. Louis. Requires a free API key from <a href="https://fred.stlouisfed.org/docs/api/api_key.html" target="_blank">FRED</a>. (<a href="https://github.com/mortada/fredapi" target="_blank">GitHub</a>)
+
+```bash
+pip install fredapi
+```
+
+- <a href="https://pypi.org/project/wrds/" target="_blank">wrds</a> <span class="badge badge-python">Python</span> <span class="badge badge-global">Global</span> — Official WRDS Python connector for direct database access to Compustat, CRSP, and all WRDS datasets via SQL queries. Requires a WRDS account (available to UU students and staff). See also the [WRDS Python guide](../wrds/notebook.md).
+
+```bash
+pip install wrds
+```
+
+## Econometrics & Analysis
+
+- <a href="https://pypi.org/project/linearmodels/" target="_blank">linearmodels</a> <span class="badge badge-python">Python</span> — Panel data models (fixed effects, random effects, between estimator), instrumental variables (2SLS, LIML, GMM), and system estimation. Standard package for applied finance research with panel data. (<a href="https://github.com/bashtage/linearmodels" target="_blank">GitHub</a>)
+
+```bash
+pip install linearmodels
+```
+
+- <a href="https://pypi.org/project/statsmodels/" target="_blank">statsmodels</a> <span class="badge badge-python">Python</span> — Time series analysis (ARIMA, VAR, VECM, GARCH via `arch`), hypothesis testing, OLS/WLS/GLS regression, and diagnostic tools. Foundation for econometric work in Python. (<a href="https://github.com/statsmodels/statsmodels" target="_blank">GitHub</a>)
+
+```bash
+pip install statsmodels
+```
+
 ## Books
 
 - <a href="https://www.tidy-finance.org/python/" target="_blank">Tidy Finance with Python</a> — Open-source textbook on empirical finance with Python, by Scheuch, Voigt, Weiss & Frey (Chapman & Hall/CRC). Covers tidy data principles, asset pricing (beta estimation, portfolio sorts, Fama-French factors), machine learning (ridge, lasso, random forests, neural networks), and portfolio optimization. Full book available free online. Also provides the <a href="https://github.com/tidy-finance/py-tidyfinance" target="_blank">`tidyfinance`</a> Python package with helper functions for downloading and preparing financial datasets.
