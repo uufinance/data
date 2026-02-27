@@ -13,5 +13,5 @@ Free and open-access data sources for finance research, organized by topic.
 | [Survey Data](survey-data.md) | Household and consumer surveys (NFCS, LISS, HFCS, SCF) |
 | [Sentiment & Culture](sentiment-culture.md) | Investor sentiment, cultural dimensions, values surveys |
 | [Python Tools & Books](python-tools.md) | Open-source Python packages and books for financial analysis |
-| [Data Collections](researcher-data.md) | Comprehensive database lists and general-purpose data repositories |
+| [Data Collections](researcher-data.md) | Curated data collection directories: Mark Dijkstra's finance database list, Our World in Data, and Kaggle |
 | [Journal Replication Packages](replication-packages.md) | Harvard Dataverse collections for JFQA, RFS, RCFS, RAPS, FMA, and others |
