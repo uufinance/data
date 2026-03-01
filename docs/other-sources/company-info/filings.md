@@ -17,7 +17,7 @@ The <a href="https://www.sec.gov/data-research/sec-markets-data" target="_blank"
 - <a href="https://www.sec.gov/data-research/sec-markets-data/number-edgar-filings-form-type" target="_blank">Number of EDGAR Filings by Form Type</a> — Aggregate counts of EDGAR filings broken down by form type, useful for studying filing trends and regulatory activity.
 - <a href="https://www.sec.gov/foia-services/frequently-requested-documents/company-information-about-active-broker-dealers#:~:text=This%20ascii%20text%20file%20contains%20the%20Central%20Index,active%20broker-dealers%20who%20are%20registered%20with%20the%20SEC." target="_blank">Company Information About Active Broker-Dealers</a> — Identification and registration data for active SEC-registered broker-dealers.
 - <a href="https://www.sec.gov/data-research/sec-markets-data/public-company-bankruptcy-cases-opened-monitored" target="_blank">Bankruptcy Cases</a> — List of bankruptcy cases for public companies filed under Chapter 11 of the Bankruptcy Code, opened and monitored since fiscal year 2009.
-- <a href="https://www.sec.gov/data-research/sec-markets-data/company-information" target="_blank">Company Information (CIK Numbers)</a> — Central Index Key (CIK) numbers, company names, SEC reporting file numbers, and addresses for all SEC-filing companies.
+- <a href="https://www.sec.gov/search-filings/cik-lookup" target="_blank">Company Information (CIK Numbers)</a> — Central Index Key (CIK) numbers, company names, SEC reporting file numbers, and addresses for all SEC-filing companies.
 
 ## SEC EDGAR — Capital Formation
 
