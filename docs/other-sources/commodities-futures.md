@@ -85,7 +85,7 @@ Data reflects positions as of the close of business each Friday. Compared to CFT
 The <a href="https://transparency.entsoe.eu/" target="_blank">ENTSO-E Transparency Platform</a> provides free access to European electricity market data, published by the European Network of Transmission System Operators for Electricity. Covers actual and forecast electricity generation, cross-border flows, day-ahead prices, load, and balancing data for 35+ European countries. Data is published with a delay of 24 hours or less. Free registration required for API access.
 
 - <a href="https://transparency.entsoe.eu/dashboard/show" target="_blank">Transparency Platform Dashboard</a> — Interactive dashboard with real-time and historical electricity data. Data downloadable as CSV directly from the web interface.
-- <a href="https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html" target="_blank">ENTSO-E RESTful API</a> — Programmatic access to all transparency data via a RESTful API. Requires a free account and API security token. Python access via the <a href="https://pypi.org/project/entsoe-py/" target="_blank">`entsoe-py`</a> client library.
+- <a href="https://transparencyplatform.zendesk.com/hc/en-us/articles/12845911031188-How-to-get-security-token" target="_blank">ENTSO-E RESTful API</a> — Programmatic access to all transparency data via a RESTful API. Requires a free account and API security token. Python access via the <a href="https://pypi.org/project/entsoe-py/" target="_blank">`entsoe-py`</a> client library.
 
 ```bash
 pip install entsoe-py
