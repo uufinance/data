@@ -12,7 +12,7 @@
 ## Short Selling
 
 - <a href="https://www.finra.org/finra-data/browse-catalog/equity-short-interest/data" target="_blank">FINRA Short Interest</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-us">US</span> <span class="badge badge-equities">Equities</span> — Bi-monthly (mid-month and end-of-month) short interest positions for all equity securities, published by FINRA. Reports total shares sold short per security. Useful for studying short selling constraints, investor disagreement, and overvaluation.
-- <a href="https://www.finra.org/finra-data/browse-catalog/reg-sho-daily-short-sale-volume-files/data" target="_blank">FINRA Daily Short Sale Volume</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-us">US</span> <span class="badge badge-equities">Equities</span> — Daily aggregate short sale volume by security across all FINRA-regulated venues. Published next business day. Covers total and short volume per ticker. Note: short sale volume ≠ short interest (positions); volume captures daily flow, not outstanding positions.
+- <a href="https://www.finra.org/finra-data/browse-catalog/short-sale-volume-data" target="_blank">FINRA Daily Short Sale Volume</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-us">US</span> <span class="badge badge-equities">Equities</span> — Daily aggregate short sale volume by security across all FINRA-regulated venues. Published next business day. Covers total and short volume per ticker. Note: short sale volume ≠ short interest (positions); volume captures daily flow, not outstanding positions.
 
 ## SEC Market Structure Data <span class="badge badge-csv">CSV</span> <span class="badge badge-us">US</span>
 
