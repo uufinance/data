@@ -3,7 +3,11 @@
 LSEG Workspace (formerly Refinitiv Eikon / Thomson Reuters Eikon) is a financial data and analytics platform provided by the London Stock Exchange Group. It offers real-time and historical data on equities, fixed income, commodities, foreign exchange, and more, along with news, analytics, and screening tools.
 
 !!! warning "Limited Availability"
+    LSEG Workspace is available exclusively to **master's students of Utrecht University School of Economics (U.S.E.)**. Bachelor's students and students from other departments are not eligible.
+
     We have a limited number of LSEG accounts. Access is granted on a **weekly basis** and allocated **first come, first served**. Plan ahead — waiting times may apply.
+
+    LSEG Workspace is accessible on **Monday and Tuesday mornings** (exact times may vary).
 
 ## How to Get Access
 
@@ -33,6 +37,7 @@ After your week ends, you may request an additional week. However:
 
 | | |
 |---|---|
+| **Eligibility** | Master's students of U.S.E. only |
 | **Who requests?** | You (the student) |
 | **How?** | Email [financedata.use@uu.nl](mailto:financedata.use@uu.nl) |
 | **Slot duration** | 1 week (Tuesday to Monday) |
