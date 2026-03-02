@@ -17,7 +17,13 @@ Before requesting access, confirm with your thesis supervisor that the data you 
 
 ### Step 2: Send a Request by Email
 
-Send an email to **[financedata.use@uu.nl](mailto:financedata.use@uu.nl)** to request access. You (the student) must send this request yourself.
+Send an email to **[financedata.use@uu.nl](mailto:financedata.use@uu.nl)** to request access. You (the student) must send this request yourself. Include the following information in your email:
+
+- Full name
+- Email address
+- Student number
+- Supervisor
+- Study programme
 
 ### Step 3: Receive Your Weekly Slot
 
