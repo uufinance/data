@@ -7,7 +7,7 @@ LSEG Workspace (formerly Refinitiv Eikon / Thomson Reuters Eikon) is a financial
 
     We have a limited number of LSEG accounts. Access is granted on a **weekly basis** and allocated **first come, first served**. Plan ahead — waiting times may apply.
 
-    LSEG Workspace is accessible on **Monday and Tuesday mornings** (exact times may vary).
+    Each slot runs from **Tuesday morning to Monday morning** (exact times may vary).
 
 ## How to Get Access
 
@@ -21,10 +21,10 @@ Send an email to **[financedata.use@uu.nl](mailto:financedata.use@uu.nl)** to re
 
 ### Step 3: Receive Your Weekly Slot
 
-You will be assigned a **one-week access slot** running from **Tuesday to Monday**. You will be notified which week you are scheduled for.
+You will be assigned a **one-week access slot** running from **Tuesday morning to Monday morning** (exact times may vary). You will be notified which week you are scheduled for.
 
 - Allocation is **first come, first served**
-- Licence changes are processed manually and take approximately **24 hours**, which is why each slot runs from Tuesday to Monday
+- Licence changes are processed manually and take approximately **24 hours**, which is why each slot runs from Tuesday morning to Monday morning
 
 ### Step 4: Need More Time?
 
@@ -40,7 +40,7 @@ After your week ends, you may request an additional week. However:
 | **Eligibility** | Master's students of U.S.E. only |
 | **Who requests?** | You (the student) |
 | **How?** | Email [financedata.use@uu.nl](mailto:financedata.use@uu.nl) |
-| **Slot duration** | 1 week (Tuesday to Monday) |
+| **Slot duration** | 1 week (Tuesday morning to Monday morning; exact times may vary) |
 | **Allocation** | First come, first served |
 | **Extra weeks?** | Yes — after your current slot ends; new users take priority |
 | **Alternatives** | [WRDS](../wrds/index.md), [FactSet](../factset/index.md), [other sources](../other-sources/index.md) |
