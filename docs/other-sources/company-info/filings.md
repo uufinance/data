@@ -67,3 +67,7 @@ pip install sec-edgar-downloader
 
 - <a href="https://www.global-business-networks.com/" target="_blank">Global Business Networks</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Time-varying business network data for 63,000+ global firms, constructed using AI-generated business descriptions from 10-K filings (EDGAR) and international reports (LSEG). Includes networks based on Sentence-T5-XXL and OpenAI embedding models, plus masked variants to mitigate look-ahead bias. Coverage: 2000–2021. By Breitung & Müller (2025, *Journal of Financial Economics*). (<a href="https://data.mendeley.com/datasets/gdwm3m9xjz/1" target="_blank">Replication Data</a>)
 
+## Patents & Innovation Data
+
+- <a href="https://patents.darden.virginia.edu/" target="_blank">UVA Darden Global Corporate Patent Dataset</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Patent–firm linked database covering about 3 million USPTO patents (1980–2017) assigned to 9,000+ publicly listed firms in 50 countries, linked to firms using Compustat GVKEY identifiers. Data is available for academic and other non‑commercial use upon request.
+- **See also**: [WRDS US Patents](../../wrds/databases/us-patents.md) for US patent data.
