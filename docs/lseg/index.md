@@ -5,7 +5,7 @@ LSEG Workspace (formerly Refinitiv Eikon / Thomson Reuters Eikon) is a financial
 !!! warning "Limited Availability"
     LSEG Workspace is available exclusively to **master's students of Utrecht University School of Economics (U.S.E.)**. Bachelor's students and students from other departments are not eligible.
 
-    We have a limited number of LSEG accounts. Access is granted on a **weekly basis** and allocated **first come, first served**. Plan ahead — waiting times may apply.
+    We have a limited number of LSEG accounts. Access is granted on a **weekly basis** and allocated **first come, first served**. First time users have priority to those who have already used LSEG. Plan ahead — waiting times may apply.
 
     Each slot runs from **Tuesday morning to Monday morning** (exact times may vary).
 
@@ -24,6 +24,8 @@ Send an email to **[financedata.use@uu.nl](mailto:financedata.use@uu.nl)** to re
 - Student number
 - Supervisor
 - Study programme
+
+You can not reserve for a specified week of your favor. Which means, if you request access, you would be in line for the upcoming week only. Be sure to send an application when you really need and can access the database.
 
 ### Step 3: Receive Your Weekly Slot
 
