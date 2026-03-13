@@ -25,7 +25,7 @@ Send an email to **[financedata.use@uu.nl](mailto:financedata.use@uu.nl)** to re
 - Supervisor
 - Study programme
 
-You can not reserve for a specified week of your favor. Which means, if you request access, you would be in line for the upcoming week only. Be sure to send an application when you really need and can access the database.
+You **can not** reserve for a specified week of your favor. Which means, if you request access, you would be in line for the **upcoming week only**. Be sure to send an application when you really need and can access the database.
 
 ### Step 3: Receive Your Weekly Slot
 
