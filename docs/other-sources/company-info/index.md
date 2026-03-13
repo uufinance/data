@@ -1,4 +1,4 @@
-# Company Information
+# Firm Data
 
 Resources for identifying companies, accessing regulatory filings and financial statements, retrieving annual reports, and linking firm-level data across databases.
 
