@@ -28,7 +28,7 @@ After submitting your registration, you will receive an email with login instruc
 
 - The default expiration for student accounts is **2 years**.
 - WRDS policy prohibits undergraduate/master's students from accessing WRDS during the extended break between semesters. Accounts are temporarily disabled during this time and automatically re-enabled when the new semester begins.
-- If you need access to a specific database or have questions, send an email to **financedata.use@uu.nl** with your name, position/degree programme (BSc/MSc), type of data required, and details of your request.
+- If you need help accessing to a specific database or have questions, send an email to **financedata.use@uu.nl** with your name, position/degree programme (BSc/MSc), type of data required, and details of your request. Please be reminded help can be provided only **within the database that the school already have access to**. Database with restricted access can not be provided.
 
 ### Getting Help
 
