@@ -33,4 +33,4 @@ conn.list_tables(library='patent')
 For more examples, see the [Python API notebook](../notebook.md).
 
 ---
-**See also**: [Company Information](index.md) for annual reports, identifiers, and industry classification | [News & Media](../news-media/index.md) for Nexis Uni and news datasets | [WRDS](../../wrds/index.md) for Compustat and other database access | [Patent & Innovation Data](../company-info/filings.md) for a global patent–firm linked dataset.
+**See also**: [Company Information](index.md) for annual reports, identifiers, and industry classification | [News & Media](../news-media/index.md) for Nexis Uni and news datasets | [WRDS](../../wrds/index.md) for Compustat and other database access | [Patent & Innovation Data](data/docs/other-sources/company-info/filings.md) for a global patent–firm linked dataset.
