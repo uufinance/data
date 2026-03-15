@@ -91,5 +91,9 @@ The <a href="https://transparency.entsoe.eu/" target="_blank">ENTSO-E Transparen
 pip install entsoe-py
 ```
 
+## Realized Volatility for Futures
+
+- <a href="https://volare.unime.it/" target="_blank">VOLARE (VOLatility Archive for Realized Estimates)</a> <span class="badge badge-csv">CSV</span> <span class="badge badge-global">Global</span> — Open research infrastructure providing standardized realized volatility and covariance measures for futures contracts (including commodity futures traded on NYMEX, COMEX, and CME), constructed from ultra-high-frequency tick-level data at one-second resolution. Delivers realized variance, bipower variation, semivariances, realized quarticity, realized kernels, and multivariate realized covariance. Covered futures are listed in Appendix Table A.3 of the <a href="https://arxiv.org/abs/2602.19732" target="_blank">reference paper</a>. **See also**: [Equities & Asset Pricing](asset-pricing.md#volatility-options-data) for the full VOLARE description and equity coverage | [Foreign Exchange](foreign-exchange.md) for VOLARE's exchange rate coverage.
+
 ---
 **See also**: [Asset Classes](assets/index.md) for an overview of all asset class data | [Economic & Macroeconomic Data](economic/index.md) for macro drivers of commodity markets | [Python Tools & Books](python-tools.md) for general financial data packages.
