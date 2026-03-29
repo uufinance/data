@@ -105,7 +105,7 @@ nav:
           - Policy Uncertainty: other-sources/economic-policy-uncertainty.md
       - Survey Data: other-sources/survey-data.md
       - Sentiment & Culture: other-sources/sentiment-culture.md
-      - Turnover Data: other-sources/ceo-turnover.md
+      - Managerial/Executive Data: other-sources/ceo-turnover.md
       - Python Tools & Books: other-sources/python-tools.md
       - Data Collections: other-sources/researcher-data.md
       - Journal Replication Packages: other-sources/replication-packages.md
