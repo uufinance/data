@@ -6,7 +6,7 @@ Many top finance journals now require authors to deposit replication code and da
 
 | Journal | Collection |
 |---------|------------|
-| <a href="https://www.jfinec.com/data-and-code" target="_blank">Journal of Financial Economics (JFE)</a> | Replication code and data for empirical JFE articles, hosted directly on the journal's website. Authors are required to deposit code and data as a condition of publication. |
+| <a href="https://www.jfinec.com/data-and-code" target="_blank">Journal of Financial Economics (JFE)</a> | Replication code and data for empirical JFE articles. For papers accepted on or after 7/1/2021 but submitted before that date, data and code are linked from the ScienceDirect entry where available (with some exceptions listed on the site). Newer submissions are deposited on <a href="https://data.mendeley.com/research-data/?data_type=dataset&query=%22journal%20of%20financial%20economics%22" target="_blank">Mendeley Data</a>. |
 
 ## Harvard Dataverse — Journal Collections
 
