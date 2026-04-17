@@ -2,6 +2,12 @@
 
 Many top finance journals now require authors to deposit replication code and data in a public repository as a condition of publication. The [Harvard Dataverse](https://dataverse.harvard.edu/) hosts official journal collections for several leading finance journals. All datasets are freely accessible — no registration required to download.
 
+## Journal-Hosted Collections
+
+| Journal | Collection |
+|---------|------------|
+| <a href="https://www.jfinec.com/data-and-code" target="_blank">Journal of Financial Economics (JFE)</a> | Replication code and data for empirical JFE articles, hosted directly on the journal's website. Authors are required to deposit code and data as a condition of publication. |
+
 ## Harvard Dataverse — Journal Collections
 
 | Journal | Collection |
