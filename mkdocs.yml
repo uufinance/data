@@ -71,7 +71,7 @@ nav:
       - FactSet:
           - factset/index.md
           - Available Data: factset/data.md
-              - Markets:
+              - Markets: docs/lseg/markets.md
               - Macro:
               - Company:
               - Portfolio: 
