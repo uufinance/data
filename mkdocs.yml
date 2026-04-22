@@ -71,6 +71,16 @@ nav:
       - FactSet:
           - factset/index.md
           - Available Data: factset/data.md
+              - Markets:
+              - Macro:
+              - Company:
+              - Portfolio: 
+              - News:
+              - Charting: 
+              - Sustainability:
+              - Research:
+              - Filings&Events: 
+              - Search Tools: 
           - Using FactSet: factset/using-factset.md
       - LSEG Workspace:
           - lseg/index.md
