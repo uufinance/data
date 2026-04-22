@@ -71,20 +71,20 @@ nav:
       - FactSet:
           - factset/index.md
           - Available Data: factset/data.md
-              - Markets: docs/lseg/markets.md
-              - Macro:
-              - Company:
-              - Portfolio: 
-              - News:
-              - Charting: 
-              - Sustainability:
-              - Research:
-              - Filings&Events: 
-              - Search Tools: 
           - Using FactSet: factset/using-factset.md
       - LSEG Workspace:
           - lseg/index.md
           - Available Data: lseg/data.md
+              - Markets: lseg/markets.md
+              - Macro: lseg/macro.md
+              - Company: lseg/company.md
+              - Portfolio: lseg/portfolio.md
+              - News: lseg/news.md
+              - Charting: lseg/charting.md
+              - Sustainability: lseg/sustainability.md
+              - Research: lseg/research.md
+              - Filings&Events: lseg/filings.md
+              - Search Tools: lseg/searchtool.md
           - Using LSEG Workspace: lseg/using-lseg.md
   - Other Data:
       - other-sources/index.md
