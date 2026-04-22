@@ -1,0 +1,11 @@
+# Sustainability
+
+Sustainability section of LSEG provides the following data:
+
+- **SFI Home Page** — This is the entry point into LSEG’s Sustainable Finance & Investment (SFI) suite, aggregating access to sustainability ratings and data, climate‑transition metrics, green‑economy exposure, and regulatory‑alignment datasets (e.g., SFDR, EU taxonomy) across asset classes.
+- **Sustainability Dashboard** — A dashboard that overlays LSEG’s ESG scores, 170+ standardized ESG metrics, climate indicators, controversies, and sometimes green‑revenue and sustainable‑finance flags at issuer level, then aggregates them to portfolio, benchmark, sector, and country views to monitor sustainability profile and regulatory alignment.
+- **Sovereign Sustainability Solutions** — LSEG’s sovereign‑level ESG and climate dataset: country ESG/Sustainable Development Goal (SDG) scores, climate‑risk and transition‑risk metrics (physical and policy), and ESG‑augmented sovereign‑risk/credit scores, used to integrate sustainability into government‑bond and macro/FX research.
+- **Energy Transition Guide** — Content and data focused on the energy‑transition theme, combining company‑level climate indicators (emissions, targets, capex alignment), green‑revenue classifications, sector‑level transition readiness, and policy/market developments to help users analyse decarbonization pathways and transition risk.
+- **Green Bond Guide** — A view into LSEG’s labelled‑bond and sustainable‑debt data: information on green, social, sustainability, and sustainability‑linked bonds and loans, including use‑of‑proceeds categories, frameworks, external reviews, deal sizes, currencies, and post‑issuance reporting flags.
+- **Sustainable Deals Market Overview** — Aggregated analytics on the sustainable‑finance deal market, volumes, issuance trends, currencies, sectors, and regions, built from transaction‑level data on green and other labelled instruments, plus league tables and market‑share measures for issuers, underwriters, and regions.
+- **COP - Convention on Climate Change** — A curated package of data and content around UNFCCC COP conferences: timelines and outcomes of negotiations, country climate‑pledge and target data, related policy developments, and links to LSEG’s climate and emissions datasets that quantify progress versus commitments.
