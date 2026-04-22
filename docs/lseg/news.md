@@ -1,0 +1,15 @@
+# News
+
+News section of LSEG provides the following data:
+
+- **Reuters Top News** — Real‑time feed of high‑priority stories from Reuters, covering global markets, economics, politics, companies, and major events, prioritized by editorial importance and market impact, with full story text, tags, and time stamps.
+- **WSJ Professional+** — Integration of licensed Wall Street Journal Professional content into the LSEG environment: in‑depth articles, deal coverage, policy and regulation reporting, and opinion pieces, all tagged by topic, company, sector, and geography for search and alerting.
+- **News Monitor** — A cross‑source monitoring layer that tracks all incoming stories (Reuters, WSJ Pro, IFR, Breakingviews, etc.) against user‑defined watchlists and themes, surfacing relevant headlines, tagging them by entities and topics, and providing tools for filtering, sentiment, and alert generation.
+- **IFR** — Content from IFR (International Financing Review), which provides specialist coverage of capital markets: new bond and equity issues, syndications, structured products, and secondary‑market colour, along with league tables and deal commentary for professionals in primary markets.
+- **Reuters Breakingviews** — Opinion and analytical columns from Reuters Breakingviews, offering short, market‑relevant commentary on companies, deals, macro themes, and policy developments, with each article linked to the underlying instruments, sectors, and regions it discusses.
+- **Reuters Open Interest** — A curated stream of deep‑dive Reuters features and explainers on market structure, policy shifts, macro themes, and longer‑term investment issues, distinct from straight news in that it emphasizes context, analysis, and narrative.
+- **LSEG Newscasts** — Short video or audio news briefings and market wraps produced by LSEG, summarizing market moves, key stories, and thematic developments, often tied to the same underlying news database and tagged for later retrieval.
+- **United States Politics** — A filtered subset of the LSEG news universe focused on U.S. political developments, elections, legislation, regulation, fiscal debates, central‑bank appointments, framed in terms of their implications for markets, sectors, and specific securities.
+- **Ukraine Crisis** — Topic‑tagged feed aggregating stories about the Ukraine war and related geopolitical issues (sanctions, energy markets, defence spending, refugee flows), with links to affected countries, companies, and commodities.
+- **Macro Vitals** — A news stream tied specifically to macro‑economic risk themes, inflation dynamics, central‑bank decisions, sovereign‑risk developments, systemic financial‑stability concerns, drawing on both data releases and analytical pieces flagged as macro‑significant.
+- **Sustainable Finance News** — Curated coverage of ESG and sustainable‑finance developments: regulatory changes (e.g., EU taxonomy, disclosure rules), green bond and sustainability‑linked issuance, climate‑policy news, and corporate sustainability initiatives, all linked back to LSEG’s ESG and sustainable‑finance datasets.
