@@ -74,7 +74,8 @@ nav:
           - Using FactSet: factset/using-factset.md
       - LSEG Workspace:
           - lseg/index.md
-          - Available Data: lseg/data.md
+          - Available Data: 
+              - lseg/data.md
               - Markets: lseg/markets.md
               - Macro: lseg/macro.md
               - Company: lseg/company.md
