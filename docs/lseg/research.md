@@ -1,0 +1,8 @@
+# Research
+
+Research section of LSEG provides the following data:
+
+- **Company Research** — LSEG aggregates company‑specific research content. 1) Broker and independent research reports (where licensed) with metadata such as author, firm, rating, and target price. 2) Company‑level data packs combining fundamentals, estimates, ownership, ESG, and recent news/events into a research‑style dossier for that issuer.
+- **Advanced Research** — This section exposes quantitative and thematic analytics built on LSEG data: 1) Factor and style libraries (value, quality, momentum, low‑vol, ESG factors, etc.) computed from LSEG fundamentals, prices, and ESG fields. 2) Back‑testing, screening, and model‑building tools that let you apply those factors to cross‑sections of securities, test strategies, and export signal histories.
+- **Signal Search** — Signal Search is a discovery layer over pre‑computed trading and investment signals: 1) Libraries of signals such as earnings‑revision momentum, valuation spreads, short‑interest, news sentiment, ESG momentum, and macro surprise indicators, all derived from LSEG data. 2) Metadata describing each signal (definition, lookback window, update frequency, coverage universe) and historical time‑series so you can test and compare their behaviour.
+- **LSEG Research and Insights** — This menu surfaces proprietary research and thought leadership from LSEG: 1)Thematic reports on markets, macroeconomics, ESG, and regulation that synthesize LSEG datasets into narrative research with charts and tables. 2) Short notes and dashboards (e.g., on volatility, liquidity, sustainable finance trends) that are directly backed by internal analytics and aggregates from LSEG’s databases.
