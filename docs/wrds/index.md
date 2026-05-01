@@ -18,7 +18,7 @@ For **Affiliation with Institution**, select the option that best fits your role
 
 ### Step 4: Complete the Registration Form
 
-Fill in the required details. Note that **usernames are permanent** and cannot be modified once you have requested your account. Check with your institution's representative if there are any username requirements before creating your account.
+Fill in the required details. Note that **usernames are permanent** and cannot be modified once you have requested your account.
 
 ### Step 5: Wait for Approval
 
