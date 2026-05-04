@@ -114,6 +114,7 @@ nav:
           - Time Series & APIs: other-sources/economic-data.md
           - Country-Level Data: other-sources/macro-country-data.md
           - Policy Uncertainty: other-sources/economic-policy-uncertainty.md
+          - Regulations: other-sources/regulations.md
       - Survey Data: other-sources/survey-data.md
       - Sentiment & Culture: other-sources/sentiment-culture.md
       - Managerial/Executive Data: other-sources/ceo-turnover.md
