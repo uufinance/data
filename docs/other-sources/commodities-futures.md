@@ -97,6 +97,7 @@ pip install entsoe-py
 
 ## Additional Database for Commodities
 - The <a href="https://sites.google.com/site/cjsbaumeister/datasets" target="_blank">Christiane Baumeister Datasets</a> <span class="badge badge-csv">XLSX</span> <span class="badge badge-global">Global</span> page provides a collection of macroeconomic and commodity-related time series constructed in peer‑reviewed research, with regular real‑time updates. The datasets include global activity indicators (Monthly World Industrial Production index, Global Economic Conditions indicator), high-frequency U.S. business cycle measures (state-level and national Weekly Economic Conditions Indicators, Weekly Economic Weakness Index), and energy and commodity series such as WTI oil price expectations, structural oil supply and demand shocks, market-based oil price shocks, a real commodity price factor, and a real-time natural gas market database.
+
 Most series span several decades at monthly or weekly frequency (e.g. WIP from 1958, GECON from 1973, ECI from 1987), making them suitable for research on business cycles, forecasting, and the macroeconomic effects of commodity and energy shocks. Several indicators are mirrored in Haver Analytics (e.g. GECON in G10/EMERGE, state and national ECIs in REGIONW), and each dataset is documented with its academic source, sample period, and planned update schedule.
 
 
