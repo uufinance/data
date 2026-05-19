@@ -2,6 +2,8 @@
 
 The following databases are available to Utrecht University via WRDS. Click the guide link for details on available tables, API library names, and what data you can expect to find.
 
+Databases not on the following list (**e.g. CompuStat**) can not be provided. 
+
 For a full overview of all variables and tables, see the <a href="https://wrds-www.wharton.upenn.edu/data-dictionary/data-dictionary/" target="_blank">WRDS Data Dictionary</a>.
 
 ## Corporate Financials
