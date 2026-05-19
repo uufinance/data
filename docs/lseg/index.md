@@ -17,7 +17,9 @@ Before requesting access, confirm with your thesis supervisor that the data you 
 
 ### Step 2: Send a Request by Email
 
-Send an email to **[financedata.use@uu.nl](mailto:financedata.use@uu.nl)** to request access. You (the student) must send this request yourself. Include the following information in your email:
+Send an email to **[financedata.use@uu.nl](mailto:financedata.use@uu.nl)** to request access. You (the student) must send this request yourself. Please send the request via **your (the student's) Utrecht University email account**. Requests from non-UU email accounts will not be processed.
+
+Include the following information in your email:
 
 - Full name
 - Email address
@@ -47,7 +49,7 @@ After your week ends, you may request an additional week. However:
 |---|---|
 | **Eligibility** | Master's students of U.S.E. only |
 | **Who requests?** | You (the student) |
-| **How?** | Email [financedata.use@uu.nl](mailto:financedata.use@uu.nl) |
+| **How?** | Email [financedata.use@uu.nl](mailto:financedata.use@uu.nl) via UU account|
 | **Slot duration** | 1 week (Tuesday morning to Monday morning; exact times may vary) |
 | **Allocation** | First come, first served |
 | **Extra weeks?** | Yes — after your current slot ends; new users take priority |
