@@ -23,7 +23,7 @@ Fill in the required details. Note that **usernames are permanent** and cannot b
 
 ### Step 5: Wait for Approval
 
-After submitting your registration, you will receive an email with login instructions once the WRDS administrators approve your request. Approval may take up to 48 hours.
+After submitting your registration, you will receive an email with login instructions once the WRDS administrators approve your request. Approval may take up to one week.
 
 ### Important Notes
 
