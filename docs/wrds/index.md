@@ -3,6 +3,7 @@
 ## How to Get a WRDS Account
 
 In order to use WRDS, you need to register for an account on the WRDS website. Opening a new account is simple and requires only a couple of minutes.
+Please register for a WRDS account with an **Utrecht University email account**.
 
 ### Step 1: Go to the WRDS Website
 
