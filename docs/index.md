@@ -5,7 +5,7 @@
 
 This site is maintained by the <a href="https://www.uu.nl/en/organisation/utrecht-university-school-of-economics-use/research/research/finance" target="_blank">Finance section</a> of <a href="https://www.uu.nl/en/organisation/utrecht-university-school-of-economics-use" target="_blank">Utrecht University School of Economics (U.S.E.)</a> and is primarily intended for **UU students and researchers**. It provides documentation and manuals for accessing and working with financial data.
 
-**UU students and staff:** if you need help with data access or have questions about available resources, please reach out to the finance database team.**
+**UU students and staff:** if you need help with data access or have questions about available resources, please reach out to the finance database team.
 
 <a href="https://www.linkedin.com/company/finance-utrecht/" target="_blank" style="display:inline-flex; align-items:center; justify-content:center; width:32px; height:32px; background:#000; border-radius:6px; text-decoration:none; color:#fff; font-weight:700; font-size:15px; font-family:sans-serif;">in</a>
 
