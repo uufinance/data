@@ -14,6 +14,7 @@ Go to the <a href="https://support.factset.com/academic/#/student" target="_blan
 ### Step 2: Receive Your Credentials
 
 You will receive your FactSet user ID and password by email. Check your spam folder if you do not see it.
+It can take up to a week for your account to be proccessed. 
 
 ### Step 3: Access FactSet
 
