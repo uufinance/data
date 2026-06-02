@@ -48,7 +48,7 @@ nav:
           - Available Data:
               - wrds/databases/index.md
               - Corporate Financials:
-                  - Compustat North America: docs/wrds/databases/compustat-north-america.md
+                  - Compustat North America: wrds/databases/compustat-north-america.md
                   - Compustat Bank: wrds/databases/compustat-bank.md
                   - Compustat Global: wrds/databases/compustat-global.md
                   - Compustat Historical Segments: wrds/databases/compustat-segments.md
