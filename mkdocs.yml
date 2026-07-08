@@ -75,6 +75,13 @@ nav:
             - Markets: factset/markets.md
             - Watchlist: factset/watchlist.md
             - Company&Security: factset/company.md
+            - Charting: factset/charting.md
+            - Economics: factset/economics.md
+            - Sectors&Insights: factset/sectors.md
+            - Document Search: factset/document.md
+            - Screening: factset/screening.md
+            - Portfolio Analysis 3.0: factset/portfolio.md
+            - Ownership: factset/ownership.md
           - Using FactSet: factset/using-factset.md
       - LSEG Workspace:
           - lseg/index.md
