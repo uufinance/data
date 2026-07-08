@@ -73,6 +73,8 @@ nav:
           - Available Data:
             - TodayNews: factset/todaynews.md
             - Markets: factset/markets.md
+            - Watchlist: factset/watchlist.md
+            - Company&Security: factset/company.md
           - Using FactSet: factset/using-factset.md
       - LSEG Workspace:
           - lseg/index.md
