@@ -70,7 +70,9 @@ nav:
           - Python on WRDS: wrds/notebook.md
       - FactSet:
           - factset/index.md
-          - Available Data: factset/data.md
+          - Available Data:
+            - TodayNews: factset/todaynews.md
+            - Markets: factset/markets.md
           - Using FactSet: factset/using-factset.md
       - LSEG Workspace:
           - lseg/index.md
