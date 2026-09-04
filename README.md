@@ -2,7 +2,7 @@
 
 Data guides and manuals for the Finance group at Utrecht University School of Economics.
 
-**Live site:** [https://uufinance.github.io/data/](https://uufinance.github.io/data/)
+**Live site:** [https://usefinance.github.io/data/](https://usefinance.github.io/data/)
 
 ## Local Development
 
