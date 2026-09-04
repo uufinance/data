@@ -49,4 +49,4 @@ For a full overview of all variables and tables, see the <a href="https://wrds-w
 
 ## Available Databases
 
-See the **[Available Data](data.md)** page for a full overview of the databases accessible to Utrecht University via WRDS, organised by category.
+See the **[Available Data](databases/index.md)** page for a full overview of the databases accessible to Utrecht University via WRDS, organised by category.
