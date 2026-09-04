@@ -48,6 +48,7 @@ nav:
   - Databases:
       - WRDS:
           - wrds/index.md
+          - Python on WRDS: wrds/notebook.md
           - Available Data:
               - wrds/databases/index.md
               - Corporate Financials:
@@ -70,7 +71,6 @@ nav:
               - Corporate Structure & Innovation:
                   - Subsidiary Data: wrds/databases/subsidiary-data.md
                   - US Patents: wrds/databases/us-patents.md
-          - Python on WRDS: wrds/notebook.md
       - FactSet:
           - factset/index.md
           - Available Data:
